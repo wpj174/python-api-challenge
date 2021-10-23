@@ -1,0 +1,619 @@
+1 - City: Kodīnar  ID: 1266397 Lat: 20.7903, Lng 70.7031, Temp: 76.86, Humidity: 66, Cloud Cover: 0%, Wind Speed: 8.55
+2 - City: Zagora  ID: 6547302 Lat: 30.3484, Lng -5.8365, Temp: 72.93, Humidity: 27, Cloud Cover: 0%, Wind Speed: 4.59
+3 - City: Kapaa  ID: 5848280 Lat: 22.0752, Lng -159.319, Temp: 82.38, Humidity: 77, Cloud Cover: 20%, Wind Speed: 4
+4 - City: Coquimbo  ID: 3893629 Lat: -29.9533, Lng -71.3436, Temp: 62.33, Humidity: 59, Cloud Cover: 0%, Wind Speed: 12.66
+5 - City: Hobart  ID: 2163355 Lat: -42.8794, Lng 147.3294, Temp: 50.02, Humidity: 92, Cloud Cover: 75%, Wind Speed: 3
+6 - City: New Norfolk  ID: 2155415 Lat: -42.7826, Lng 147.0587, Temp: 49.66, Humidity: 81, Cloud Cover: 100%, Wind Speed: 3
+7 - City: Takoradze  ID: 2294915 Lat: 4.8845, Lng -1.7554, Temp: 78.35, Humidity: 84, Cloud Cover: 100%, Wind Speed: 6.73
+8 - City: Corcoran  ID: 5339539 Lat: 36.098, Lng -119.5604, Temp: 69.96, Humidity: 29, Cloud Cover: 9%, Wind Speed: 7.81
+9 - City: Moss Vale  ID: 2156777 Lat: -34.55, Lng 150.3833, Temp: 54.16, Humidity: 87, Cloud Cover: 12%, Wind Speed: 4.36
+10 - City: Broome  ID: 5110365 Lat: 42.2506, Lng -75.833, Temp: 49.84, Humidity: 76, Cloud Cover: 90%, Wind Speed: 0
+11 - City: Leningradskiy  ID: 2123814 Lat: 69.3833, Lng 178.4167, Temp: 9.34, Humidity: 88, Cloud Cover: 100%, Wind Speed: 7.87
+12 - City: São João da Barra  ID: 3448903 Lat: -21.6403, Lng -41.0511, Temp: 75.29, Humidity: 83, Cloud Cover: 9%, Wind Speed: 17.45
+13 - City: Portland  ID: 5746545 Lat: 45.5234, Lng -122.6762, Temp: 55.9, Humidity: 94, Cloud Cover: 90%, Wind Speed: 1.99
+14 - City: Busselton  ID: 2075265 Lat: -33.65, Lng 115.3333, Temp: 51.08, Humidity: 80, Cloud Cover: 92%, Wind Speed: 5.46
+15 - City: Noumea  ID: 2139521 Lat: -22.2763, Lng 166.4572, Temp: 77, Humidity: 99, Cloud Cover: 98%, Wind Speed: 8.99
+16 - City: Rikitea  ID: 4030556 Lat: -23.1203, Lng -134.9692, Temp: 74.79, Humidity: 82, Cloud Cover: 99%, Wind Speed: 21.36
+17 - City: Hithadhoo  ID: 1282256 Lat: -0.6, Lng 73.0833, Temp: 82.31, Humidity: 74, Cloud Cover: 60%, Wind Speed: 12.88
+*** City solovetskiy not found! ***
+*** City attawapiskat not found! ***
+18 - City: Morros  ID: 3394372 Lat: -9.4467, Lng -46.3003, Temp: 79.09, Humidity: 67, Cloud Cover: 61%, Wind Speed: 5.5
+19 - City: Ushuaia  ID: 3833367 Lat: -54.8, Lng -68.3, Temp: 35.26, Humidity: 87, Cloud Cover: 75%, Wind Speed: 20.71
+20 - City: Pozo Colorado  ID: 3437443 Lat: -23.4923, Lng -58.7972, Temp: 73.4, Humidity: 91, Cloud Cover: 56%, Wind Speed: 19.82
+21 - City: Tashtagol  ID: 1490042 Lat: 52.7657, Lng 87.8894, Temp: 35.98, Humidity: 95, Cloud Cover: 100%, Wind Speed: 6.64
+22 - City: Jamestown  ID: 5122534 Lat: 42.097, Lng -79.2353, Temp: 49.59, Humidity: 97, Cloud Cover: 90%, Wind Speed: 4
+23 - City: Camocim  ID: 3403687 Lat: -2.9022, Lng -40.8411, Temp: 81.57, Humidity: 75, Cloud Cover: 78%, Wind Speed: 15.01
+24 - City: Kumul  ID: 1529484 Lat: 42.8, Lng 93.45, Temp: 49.08, Humidity: 43, Cloud Cover: 100%, Wind Speed: 5.75
+25 - City: Albany  ID: 5106841 Lat: 42.6001, Lng -73.9662, Temp: 53.74, Humidity: 59, Cloud Cover: 94%, Wind Speed: 7.47
+26 - City: Yuanping  ID: 1786060 Lat: 38.7153, Lng 112.7575, Temp: 42.73, Humidity: 67, Cloud Cover: 11%, Wind Speed: 0.94
+*** City taolanaro not found! ***
+27 - City: Yulara  ID: 6355222 Lat: -25.2406, Lng 130.9889, Temp: 64.24, Humidity: 39, Cloud Cover: 58%, Wind Speed: 9.22
+28 - City: Waddān  ID: 2209055 Lat: 29.1614, Lng 16.139, Temp: 80.13, Humidity: 22, Cloud Cover: 56%, Wind Speed: 11.05
+29 - City: Nome  ID: 5870133 Lat: 64.5011, Lng -165.4064, Temp: 30.27, Humidity: 74, Cloud Cover: 75%, Wind Speed: 5.75
+30 - City: Qaanaaq  ID: 3831208 Lat: 77.484, Lng -69.3632, Temp: -1.84, Humidity: 59, Cloud Cover: 0%, Wind Speed: 8.37
+31 - City: George Town  ID: 1735106 Lat: 5.4112, Lng 100.3354, Temp: 79.9, Humidity: 88, Cloud Cover: 20%, Wind Speed: 3
+32 - City: Iskateley  ID: 866062 Lat: 67.6803, Lng 53.1512, Temp: 26.33, Humidity: 88, Cloud Cover: 19%, Wind Speed: 9.19
+33 - City: Camacha  ID: 2270385 Lat: 33.0833, Lng -16.3333, Temp: 67.42, Humidity: 60, Cloud Cover: 40%, Wind Speed: 10.36
+34 - City: Bethel  ID: 5282297 Lat: 41.3712, Lng -73.414, Temp: 58.93, Humidity: 64, Cloud Cover: 40%, Wind Speed: 3.44
+35 - City: Boa Vista  ID: 3664980 Lat: 2.8197, Lng -60.6733, Temp: 91.38, Humidity: 49, Cloud Cover: 40%, Wind Speed: 11.5
+36 - City: Port Alfred  ID: 964432 Lat: -33.5906, Lng 26.891, Temp: 61.07, Humidity: 62, Cloud Cover: 3%, Wind Speed: 22.3
+*** City hihifo not found! ***
+37 - City: San Patricio  ID: 4726521 Lat: 28.017, Lng -97.5169, Temp: 88.21, Humidity: 51, Cloud Cover: 16%, Wind Speed: 15.61
+38 - City: Tanggul  ID: 1625070 Lat: -8.1645, Lng 113.4525, Temp: 74.46, Humidity: 90, Cloud Cover: 97%, Wind Speed: 1.72
+39 - City: Oktyabr'skiy  ID: 515879 Lat: 54.4815, Lng 53.471, Temp: 46.17, Humidity: 72, Cloud Cover: 97%, Wind Speed: 8.12
+40 - City: Vila Franca do Campo  ID: 3372472 Lat: 37.7167, Lng -25.4333, Temp: 66.61, Humidity: 81, Cloud Cover: 2%, Wind Speed: 5.97
+41 - City: Misratah  ID: 2214846 Lat: 32.3754, Lng 15.0925, Temp: 80.65, Humidity: 44, Cloud Cover: 100%, Wind Speed: 15.55
+42 - City: Shimoda  ID: 1852357 Lat: 34.6667, Lng 138.95, Temp: 52.11, Humidity: 67, Cloud Cover: 99%, Wind Speed: 9.8
+43 - City: Shergarh  ID: 1256574 Lat: 28.65, Lng 79.35, Temp: 68.61, Humidity: 75, Cloud Cover: 0%, Wind Speed: 4.18
+44 - City: Atuona  ID: 4020109 Lat: -9.8, Lng -139.0333, Temp: 78.31, Humidity: 78, Cloud Cover: 18%, Wind Speed: 18.7
+*** City safaqis not found! ***
+45 - City: Salalah  ID: 286621 Lat: 17.0151, Lng 54.0924, Temp: 77.09, Humidity: 65, Cloud Cover: 0%, Wind Speed: 3.44
+46 - City: Mehrān  ID: 124291 Lat: 33.1222, Lng 46.1646, Temp: 69.28, Humidity: 20, Cloud Cover: 5%, Wind Speed: 8.9
+47 - City: Mataura  ID: 6201424 Lat: -46.1927, Lng 168.8643, Temp: 52.52, Humidity: 94, Cloud Cover: 100%, Wind Speed: 0.65
+48 - City: Callaway  ID: 4149635 Lat: 30.153, Lng -85.5699, Temp: 84.96, Humidity: 43, Cloud Cover: 1%, Wind Speed: 3
+49 - City: Synya  ID: 485215 Lat: 65.3718, Lng 58.0387, Temp: 23.97, Humidity: 94, Cloud Cover: 69%, Wind Speed: 7.74
+50 - City: Esim  ID: 2303611 Lat: 4.8699, Lng -2.2405, Temp: 78.22, Humidity: 83, Cloud Cover: 91%, Wind Speed: 5.28
+51 - City: Boden  ID: 606531 Lat: 65.8252, Lng 21.6886, Temp: 15.8, Humidity: 99, Cloud Cover: 69%, Wind Speed: 2.06
+52 - City: Ribeira Grande  ID: 3372707 Lat: 38.5167, Lng -28.7, Temp: 68.4, Humidity: 68, Cloud Cover: 75%, Wind Speed: 0
+53 - City: Vicuña  ID: 3868308 Lat: -30.0319, Lng -70.7081, Temp: 78.76, Humidity: 28, Cloud Cover: 0%, Wind Speed: 7.23
+54 - City: Bredasdorp  ID: 1015776 Lat: -34.5322, Lng 20.0403, Temp: 55.27, Humidity: 72, Cloud Cover: 40%, Wind Speed: 3.44
+55 - City: Yellowknife  ID: 6185377 Lat: 62.456, Lng -114.3525, Temp: 43.41, Humidity: 76, Cloud Cover: 20%, Wind Speed: 21.85
+56 - City: Masvingo  ID: 886763 Lat: -20.0637, Lng 30.8277, Temp: 80.92, Humidity: 35, Cloud Cover: 86%, Wind Speed: 2.19
+57 - City: Houma  ID: 4328010 Lat: 29.5958, Lng -90.7195, Temp: 84.2, Humidity: 69, Cloud Cover: 40%, Wind Speed: 6.91
+58 - City: Nikolskoye  ID: 546105 Lat: 59.7035, Lng 30.7861, Temp: 35.87, Humidity: 95, Cloud Cover: 98%, Wind Speed: 8.55
+59 - City: Tuktoyaktuk  ID: 6170031 Lat: 69.4541, Lng -133.0374, Temp: 30.2, Humidity: 86, Cloud Cover: 75%, Wind Speed: 5.75
+*** City gorno-chuyskiy not found! ***
+60 - City: Port Elizabeth  ID: 964420 Lat: -33.918, Lng 25.5701, Temp: 60.1, Humidity: 77, Cloud Cover: 40%, Wind Speed: 19.57
+*** City one hundred mile house not found! ***
+61 - City: Chui  ID: 3443061 Lat: -33.6971, Lng -53.4616, Temp: 61.97, Humidity: 73, Cloud Cover: 100%, Wind Speed: 1.21
+62 - City: Nova Olinda do Norte  ID: 3393838 Lat: -3.8881, Lng -59.0942, Temp: 88.36, Humidity: 56, Cloud Cover: 100%, Wind Speed: 3.15
+63 - City: Saint-Philippe  ID: 935215 Lat: -21.3585, Lng 55.7679, Temp: 73.47, Humidity: 83, Cloud Cover: 53%, Wind Speed: 12.5
+64 - City: Bluff  ID: 2206939 Lat: -46.6, Lng 168.3333, Temp: 51.64, Humidity: 94, Cloud Cover: 100%, Wind Speed: 3.18
+65 - City: Tuatapere  ID: 2180815 Lat: -46.1333, Lng 167.6833, Temp: 52.12, Humidity: 96, Cloud Cover: 100%, Wind Speed: 2.04
+66 - City: Tatarsk  ID: 1490003 Lat: 55.219, Lng 75.9828, Temp: 49.82, Humidity: 70, Cloud Cover: 100%, Wind Speed: 18.12
+67 - City: Vaini  ID: 4032243 Lat: -21.2, Lng -175.2, Temp: 73.56, Humidity: 78, Cloud Cover: 40%, Wind Speed: 11.5
+68 - City: Pontianak  ID: 1630789 Lat: -0.0333, Lng 109.3333, Temp: 75.18, Humidity: 100, Cloud Cover: 90%, Wind Speed: 2.3
+69 - City: Alta Floresta  ID: 6316343 Lat: -9.8756, Lng -56.0861, Temp: 89.42, Humidity: 55, Cloud Cover: 40%, Wind Speed: 4.61
+70 - City: Nieuw Amsterdam  ID: 3383434 Lat: 5.8833, Lng -55.0833, Temp: 82.02, Humidity: 82, Cloud Cover: 40%, Wind Speed: 5.75
+71 - City: Ponta do Sol  ID: 2264557 Lat: 32.6667, Lng -17.1, Temp: 70.72, Humidity: 67, Cloud Cover: 30%, Wind Speed: 7.65
+72 - City: Salekhard  ID: 1493197 Lat: 66.53, Lng 66.6019, Temp: 28.99, Humidity: 83, Cloud Cover: 98%, Wind Speed: 14.27
+73 - City: Norman Wells  ID: 6089245 Lat: 65.282, Lng -126.8329, Temp: 42.84, Humidity: 65, Cloud Cover: 40%, Wind Speed: 4.61
+74 - City: Saskylakh  ID: 2017155 Lat: 71.9167, Lng 114.0833, Temp: 7.74, Humidity: 95, Cloud Cover: 100%, Wind Speed: 16.28
+75 - City: Punta Arenas  ID: 3874787 Lat: -53.15, Lng -70.9167, Temp: 42.91, Humidity: 61, Cloud Cover: 40%, Wind Speed: 37.98
+76 - City: Hermanus  ID: 3366880 Lat: -34.4187, Lng 19.2345, Temp: 56.89, Humidity: 71, Cloud Cover: 12%, Wind Speed: 3.42
+77 - City: Thompson  ID: 6165406 Lat: 55.7435, Lng -97.8558, Temp: 35.76, Humidity: 69, Cloud Cover: 75%, Wind Speed: 4.61
+78 - City: Lavrentiya  ID: 4031637 Lat: 65.5833, Lng -171, Temp: 23.59, Humidity: 85, Cloud Cover: 100%, Wind Speed: 9.66
+79 - City: Butaritari  ID: 2110227 Lat: 3.0707, Lng 172.7902, Temp: 81, Humidity: 74, Cloud Cover: 100%, Wind Speed: 8.3
+*** City illoqqortoormiut not found! ***
+80 - City: Morgan City  ID: 4333811 Lat: 29.6994, Lng -91.2068, Temp: 85.03, Humidity: 67, Cloud Cover: 96%, Wind Speed: 6.98
+81 - City: Arraial do Cabo  ID: 3471451 Lat: -22.9661, Lng -42.0278, Temp: 75.16, Humidity: 78, Cloud Cover: 0%, Wind Speed: 20.71
+82 - City: Isangel  ID: 2136825 Lat: -19.55, Lng 169.2667, Temp: 77.11, Humidity: 78, Cloud Cover: 88%, Wind Speed: 9.22
+83 - City: Los Alamos  ID: 5476825 Lat: 35.8881, Lng -106.307, Temp: 67.78, Humidity: 22, Cloud Cover: 1%, Wind Speed: 1.99
+84 - City: Aykhal  ID: 2027296 Lat: 66, Lng 111.5, Temp: 24.21, Humidity: 90, Cloud Cover: 100%, Wind Speed: 23.06
+*** City duz not found! ***
+85 - City: Nanortalik  ID: 3421765 Lat: 60.1432, Lng -45.2371, Temp: 35.8, Humidity: 72, Cloud Cover: 36%, Wind Speed: 2.35
+86 - City: Cape Town  ID: 3369157 Lat: -33.9258, Lng 18.4232, Temp: 59.27, Humidity: 72, Cloud Cover: 40%, Wind Speed: 1.01
+87 - City: Pisco  ID: 3932145 Lat: -13.7, Lng -76.2167, Temp: 66.25, Humidity: 68, Cloud Cover: 6%, Wind Speed: 24.16
+88 - City: Fare  ID: 4034496 Lat: -16.7, Lng -151.0167, Temp: 77.52, Humidity: 79, Cloud Cover: 100%, Wind Speed: 8.55
+89 - City: Kafanchan  ID: 2335713 Lat: 9.5833, Lng 8.3, Temp: 66.67, Humidity: 94, Cloud Cover: 18%, Wind Speed: 1.41
+90 - City: Tommot  ID: 2015179 Lat: 58.9564, Lng 126.2925, Temp: 34.61, Humidity: 85, Cloud Cover: 100%, Wind Speed: 4
+91 - City: Oddur  ID: 49747 Lat: 4.1213, Lng 43.8894, Temp: 76.26, Humidity: 73, Cloud Cover: 88%, Wind Speed: 11.5
+92 - City: Myanmar  ID: 1327865 Lat: 22, Lng 98, Temp: 65.79, Humidity: 99, Cloud Cover: 100%, Wind Speed: 2.13
+*** City belushya guba not found! ***
+93 - City: Castro  ID: 3466704 Lat: -24.7911, Lng -50.0119, Temp: 68.23, Humidity: 66, Cloud Cover: 91%, Wind Speed: 5.66
+*** City meyungs not found! ***
+94 - City: Ürümqi  ID: 1529102 Lat: 43.801, Lng 87.6005, Temp: 34.75, Humidity: 93, Cloud Cover: 0%, Wind Speed: 0
+95 - City: Saint-Augustin  ID: 6137462 Lat: 51.226, Lng -58.6502, Temp: 40.42, Humidity: 89, Cloud Cover: 100%, Wind Speed: 16.78
+96 - City: Puerto Ayora  ID: 3652764 Lat: -0.7393, Lng -90.3518, Temp: 75.16, Humidity: 84, Cloud Cover: 100%, Wind Speed: 9.86
+97 - City: Burnie  ID: 2173125 Lat: -41.0667, Lng 145.9167, Temp: 52.95, Humidity: 62, Cloud Cover: 77%, Wind Speed: 11.18
+98 - City: Vanino  ID: 2119932 Lat: 49.0869, Lng 140.2543, Temp: 32.85, Humidity: 88, Cloud Cover: 0%, Wind Speed: 6.22
+99 - City: Naryan-Mar  ID: 523392 Lat: 67.6713, Lng 53.087, Temp: 26.51, Humidity: 87, Cloud Cover: 19%, Wind Speed: 9.33
+100 - City: Kavaratti  ID: 1267390 Lat: 10.5669, Lng 72.642, Temp: 80.74, Humidity: 77, Cloud Cover: 81%, Wind Speed: 1.16
+101 - City: Upernavik  ID: 3418910 Lat: 72.7868, Lng -56.1549, Temp: 19.29, Humidity: 86, Cloud Cover: 100%, Wind Speed: 9.78
+102 - City: Bobo-Dioulasso  ID: 2362344 Lat: 11.1771, Lng -4.2979, Temp: 77.45, Humidity: 73, Cloud Cover: 0%, Wind Speed: 3.44
+103 - City: Khatanga  ID: 2022572 Lat: 71.9667, Lng 102.5, Temp: 10.36, Humidity: 93, Cloud Cover: 100%, Wind Speed: 16.75
+104 - City: Mar del Plata  ID: 3430863 Lat: -38.0023, Lng -57.5575, Temp: 59.02, Humidity: 67, Cloud Cover: 40%, Wind Speed: 18.99
+105 - City: Provideniya  ID: 4031574 Lat: 64.3833, Lng -173.3, Temp: 23.74, Humidity: 77, Cloud Cover: 100%, Wind Speed: 8.7
+106 - City: Dayong  ID: 1789289 Lat: 25.0209, Lng 118.2898, Temp: 68.9, Humidity: 87, Cloud Cover: 100%, Wind Speed: 4.43
+107 - City: North Ogden  ID: 5779036 Lat: 41.3072, Lng -111.9602, Temp: 45.45, Humidity: 87, Cloud Cover: 90%, Wind Speed: 1.01
+108 - City: Barrow  ID: 5880054 Lat: 71.2906, Lng -156.7887, Temp: 28.42, Humidity: 86, Cloud Cover: 90%, Wind Speed: 13.8
+109 - City: Kaitangata  ID: 2208248 Lat: -46.2817, Lng 169.8464, Temp: 55.69, Humidity: 74, Cloud Cover: 100%, Wind Speed: 2.46
+110 - City: Iquitos  ID: 3696183 Lat: -3.7481, Lng -73.2472, Temp: 86.04, Humidity: 70, Cloud Cover: 75%, Wind Speed: 16.11
+111 - City: Chokurdakh  ID: 2126123 Lat: 70.6333, Lng 147.9167, Temp: -2, Humidity: 98, Cloud Cover: 100%, Wind Speed: 6.38
+112 - City: Manakara  ID: 1061605 Lat: -22.1333, Lng 48.0167, Temp: 73.26, Humidity: 95, Cloud Cover: 21%, Wind Speed: 6.98
+113 - City: Médéa  ID: 2488835 Lat: 36.2642, Lng 2.7539, Temp: 52.25, Humidity: 86, Cloud Cover: 56%, Wind Speed: 4.18
+114 - City: Yar-Sale  ID: 1486321 Lat: 66.8333, Lng 70.8333, Temp: 30, Humidity: 92, Cloud Cover: 100%, Wind Speed: 11.36
+115 - City: Bāfq  ID: 142255 Lat: 31.6128, Lng 55.4107, Temp: 59.7, Humidity: 22, Cloud Cover: 0%, Wind Speed: 1.95
+116 - City: Lebu  ID: 3883457 Lat: -37.6167, Lng -73.65, Temp: 54.27, Humidity: 76, Cloud Cover: 24%, Wind Speed: 9.51
+117 - City: Buluang  ID: 1722803 Lat: 13.3068, Lng 123.3425, Temp: 76.12, Humidity: 92, Cloud Cover: 100%, Wind Speed: 3.33
+*** City samusu not found! ***
+118 - City: Westport  ID: 4845585 Lat: 41.1415, Lng -73.3579, Temp: 61.09, Humidity: 61, Cloud Cover: 1%, Wind Speed: 3
+119 - City: Coyhaique  ID: 3894426 Lat: -45.5752, Lng -72.0662, Temp: 54.21, Humidity: 46, Cloud Cover: 40%, Wind Speed: 12.66
+120 - City: Havelock  ID: 4470244 Lat: 34.8791, Lng -76.9013, Temp: 77.05, Humidity: 60, Cloud Cover: 40%, Wind Speed: 1.99
+121 - City: Ishigaki  ID: 1861416 Lat: 24.3448, Lng 124.1572, Temp: 76.59, Humidity: 70, Cloud Cover: 99%, Wind Speed: 17.87
+122 - City: Torbay  ID: 6167817 Lat: 47.6666, Lng -52.7314, Temp: 61.68, Humidity: 93, Cloud Cover: 75%, Wind Speed: 14.97
+123 - City: Saint Anthony  ID: 5044290 Lat: 45.0205, Lng -93.218, Temp: 53.74, Humidity: 48, Cloud Cover: 1%, Wind Speed: 1.01
+*** City tome-acu not found! ***
+124 - City: Touros  ID: 3386213 Lat: -5.1989, Lng -35.4608, Temp: 83.3, Humidity: 72, Cloud Cover: 8%, Wind Speed: 14.05
+125 - City: Yerbogachën  ID: 2012956 Lat: 61.2767, Lng 108.0108, Temp: 30, Humidity: 82, Cloud Cover: 39%, Wind Speed: 10.02
+126 - City: Lexington Park  ID: 4360592 Lat: 38.2668, Lng -76.4538, Temp: 69.91, Humidity: 56, Cloud Cover: 40%, Wind Speed: 11.5
+127 - City: Shunde  ID: 1814082 Lat: 22.8504, Lng 113.247, Temp: 64.4, Humidity: 66, Cloud Cover: 80%, Wind Speed: 8.72
+128 - City: Teya  ID: 1489656 Lat: 60.3778, Lng 92.6267, Temp: 34.5, Humidity: 92, Cloud Cover: 100%, Wind Speed: 14.47
+129 - City: Qaqortoq  ID: 3420846 Lat: 60.7167, Lng -46.0333, Temp: 34.3, Humidity: 73, Cloud Cover: 32%, Wind Speed: 3.06
+130 - City: Fortuna  ID: 5563839 Lat: 40.5982, Lng -124.1573, Temp: 62.98, Humidity: 76, Cloud Cover: 90%, Wind Speed: 5.99
+131 - City: Grindavik  ID: 3416888 Lat: 63.8424, Lng -22.4338, Temp: 46.87, Humidity: 93, Cloud Cover: 75%, Wind Speed: 11.5
+132 - City: Arrondissement d'Arcachon  ID: 6621469 Lat: 44.5875, Lng -1.0519, Temp: 44.65, Humidity: 81, Cloud Cover: 0%, Wind Speed: 2.3
+133 - City: Anloga  ID: 2304548 Lat: 5.7947, Lng 0.8973, Temp: 79.02, Humidity: 78, Cloud Cover: 96%, Wind Speed: 8.48
+*** City chikoy not found! ***
+134 - City: Ayan  ID: 2027316 Lat: 56.45, Lng 138.1667, Temp: 37.92, Humidity: 70, Cloud Cover: 2%, Wind Speed: 9.55
+135 - City: Port Hedland  ID: 2063042 Lat: -20.3167, Lng 118.5667, Temp: 71.65, Humidity: 46, Cloud Cover: 99%, Wind Speed: 0
+136 - City: Assiut  ID: 359783 Lat: 27.181, Lng 31.1837, Temp: 71.78, Humidity: 47, Cloud Cover: 2%, Wind Speed: 10.13
+137 - City: Ust-Maya  ID: 2013918 Lat: 60.4167, Lng 134.5333, Temp: 21.34, Humidity: 97, Cloud Cover: 100%, Wind Speed: 1.39
+138 - City: Bathsheba  ID: 3374083 Lat: 13.2167, Lng -59.5167, Temp: 86.61, Humidity: 62, Cloud Cover: 40%, Wind Speed: 20.71
+139 - City: Álamos  ID: 4018904 Lat: 27.0167, Lng -108.9333, Temp: 90.72, Humidity: 25, Cloud Cover: 0%, Wind Speed: 7.18
+140 - City: Ojinaga  ID: 3994469 Lat: 29.5667, Lng -104.4167, Temp: 90.57, Humidity: 35, Cloud Cover: 1%, Wind Speed: 0
+*** City vaitupu not found! ***
+141 - City: Porbandar  ID: 1259395 Lat: 21.6422, Lng 69.6093, Temp: 80.8, Humidity: 63, Cloud Cover: 92%, Wind Speed: 12.77
+142 - City: Kango  ID: 2400682 Lat: 0.1943, Lng 10.0951, Temp: 73.11, Humidity: 98, Cloud Cover: 81%, Wind Speed: 2.64
+143 - City: Villebon-sur-Yvette  ID: 2968861 Lat: 48.7059, Lng 2.2402, Temp: 49.24, Humidity: 83, Cloud Cover: 0%, Wind Speed: 1.01
+144 - City: Olafsvik  ID: 3414079 Lat: 64.8945, Lng -23.7142, Temp: 45.66, Humidity: 91, Cloud Cover: 100%, Wind Speed: 12.12
+145 - City: Antalaha  ID: 1071296 Lat: -14.9003, Lng 50.2788, Temp: 73.83, Humidity: 94, Cloud Cover: 76%, Wind Speed: 1.86
+146 - City: Yangi Marg`ilon  ID: 1513491 Lat: 40.4272, Lng 71.7189, Temp: 41.72, Humidity: 60, Cloud Cover: 0%, Wind Speed: 6.91
+147 - City: Kaduqli  ID: 373141 Lat: 11.0167, Lng 29.7167, Temp: 86.4, Humidity: 37, Cloud Cover: 99%, Wind Speed: 2.86
+148 - City: São Filipe  ID: 3374210 Lat: 14.8961, Lng -24.4956, Temp: 79.86, Humidity: 71, Cloud Cover: 5%, Wind Speed: 6.42
+*** City barbar not found! ***
+149 - City: Santa Cruz de Barahona  ID: 3492985 Lat: 18.2085, Lng -71.1008, Temp: 85.82, Humidity: 74, Cloud Cover: 75%, Wind Speed: 16.11
+150 - City: Shache  ID: 1280037 Lat: 38.4167, Lng 77.2406, Temp: 47.39, Humidity: 39, Cloud Cover: 29%, Wind Speed: 5.68
+151 - City: Sitka  ID: 5557293 Lat: 57.0531, Lng -135.33, Temp: 46.29, Humidity: 76, Cloud Cover: 75%, Wind Speed: 9.22
+152 - City: San Quintín  ID: 3984997 Lat: 30.4833, Lng -115.95, Temp: 67.95, Humidity: 69, Cloud Cover: 20%, Wind Speed: 21.74
+153 - City: Esperance  ID: 2071860 Lat: -33.8667, Lng 121.9, Temp: 51.64, Humidity: 67, Cloud Cover: 37%, Wind Speed: 17.13
+154 - City: Cherskiy  ID: 2126199 Lat: 68.75, Lng 161.3, Temp: -4.11, Humidity: 100, Cloud Cover: 97%, Wind Speed: 2.46
+155 - City: San Rafael  ID: 3836669 Lat: -34.6177, Lng -68.3301, Temp: 73.89, Humidity: 16, Cloud Cover: 0%, Wind Speed: 12.41
+*** City karamea not found! ***
+156 - City: Beibei  ID: 1816790 Lat: 29.8256, Lng 106.4339, Temp: 61.27, Humidity: 79, Cloud Cover: 9%, Wind Speed: 1.48
+157 - City: Hong Kong  ID: 1819729 Lat: 22.2855, Lng 114.1577, Temp: 69.33, Humidity: 81, Cloud Cover: 100%, Wind Speed: 1.99
+158 - City: Saint Paul Harbor  ID: 5866583 Lat: 57.79, Lng -152.4072, Temp: 44.11, Humidity: 76, Cloud Cover: 90%, Wind Speed: 14.97
+159 - City: Sobolevo  ID: 525426 Lat: 54.4299, Lng 31.8996, Temp: 40.86, Humidity: 77, Cloud Cover: 95%, Wind Speed: 16.2
+160 - City: Lorengau  ID: 2092164 Lat: -2.0226, Lng 147.2712, Temp: 81.68, Humidity: 80, Cloud Cover: 53%, Wind Speed: 8.97
+161 - City: Mahébourg  ID: 934322 Lat: -20.4081, Lng 57.7, Temp: 75.49, Humidity: 83, Cloud Cover: 75%, Wind Speed: 11.5
+162 - City: Vardø  ID: 777019 Lat: 70.3705, Lng 31.1107, Temp: 34.36, Humidity: 71, Cloud Cover: 97%, Wind Speed: 21.3
+163 - City: Manadhoo  ID: 1337618 Lat: 5.7667, Lng 73.3833, Temp: 81.61, Humidity: 77, Cloud Cover: 100%, Wind Speed: 15.08
+164 - City: Oropesa  ID: 3933956 Lat: -13.5928, Lng -71.7719, Temp: 73.26, Humidity: 28, Cloud Cover: 40%, Wind Speed: 11.5
+165 - City: Srednekolymsk  ID: 2121025 Lat: 67.45, Lng 153.6833, Temp: -14.46, Humidity: 98, Cloud Cover: 37%, Wind Speed: 4.14
+166 - City: Tasiilaq  ID: 3424607 Lat: 65.6145, Lng -37.6368, Temp: 33.96, Humidity: 86, Cloud Cover: 100%, Wind Speed: 4.5
+167 - City: Ternate  ID: 1624041 Lat: 0.8, Lng 127.4, Temp: 79.79, Humidity: 79, Cloud Cover: 45%, Wind Speed: 4.25
+168 - City: Mitsamiouli  ID: 921786 Lat: -11.3847, Lng 43.2844, Temp: 78.22, Humidity: 76, Cloud Cover: 8%, Wind Speed: 5.61
+169 - City: Kavieng  ID: 2094342 Lat: -2.5744, Lng 150.7967, Temp: 82.54, Humidity: 76, Cloud Cover: 95%, Wind Speed: 12.75
+170 - City: Rebrikha  ID: 1493722 Lat: 53.0733, Lng 82.3408, Temp: 44.65, Humidity: 62, Cloud Cover: 100%, Wind Speed: 23.51
+171 - City: Muros  ID: 3115824 Lat: 42.7762, Lng -9.0603, Temp: 57.24, Humidity: 92, Cloud Cover: 21%, Wind Speed: 2.44
+172 - City: Cape Coast  ID: 2302357 Lat: 5.1053, Lng -1.2466, Temp: 78.73, Humidity: 83, Cloud Cover: 100%, Wind Speed: 7.92
+173 - City: Pevek  ID: 2122090 Lat: 69.7008, Lng 170.3133, Temp: 10.6, Humidity: 94, Cloud Cover: 100%, Wind Speed: 6.87
+174 - City: Barzas  ID: 1510817 Lat: 55.7167, Lng 86.3167, Temp: 41.23, Humidity: 89, Cloud Cover: 100%, Wind Speed: 16.11
+175 - City: Kununurra  ID: 2068110 Lat: -15.7667, Lng 128.7333, Temp: 78.78, Humidity: 89, Cloud Cover: 2%, Wind Speed: 5.75
+176 - City: Bellavista  ID: 3699364 Lat: -7.0561, Lng -76.5911, Temp: 94.28, Humidity: 42, Cloud Cover: 70%, Wind Speed: 4.07
+177 - City: Hasaki  ID: 2112802 Lat: 35.7333, Lng 140.8333, Temp: 39.6, Humidity: 53, Cloud Cover: 1%, Wind Speed: 7.34
+*** City tabiauea not found! ***
+178 - City: Bonga  ID: 341742 Lat: 7.2833, Lng 36.2333, Temp: 58.35, Humidity: 72, Cloud Cover: 89%, Wind Speed: 2.01
+*** City toliary not found! ***
+179 - City: Udachny  ID: 2014624 Lat: 66.4167, Lng 112.4, Temp: 25.74, Humidity: 89, Cloud Cover: 72%, Wind Speed: 20
+180 - City: Marzuq  ID: 72181 Lat: 14.4, Lng 46.4667, Temp: 71.33, Humidity: 30, Cloud Cover: 9%, Wind Speed: 4.56
+*** City barentsburg not found! ***
+181 - City: Zhigansk  ID: 2012530 Lat: 66.7697, Lng 123.3711, Temp: 21.47, Humidity: 95, Cloud Cover: 100%, Wind Speed: 15.9
+182 - City: Bambous Virieux  ID: 1106677 Lat: -20.3428, Lng 57.7575, Temp: 75.45, Humidity: 83, Cloud Cover: 75%, Wind Speed: 11.5
+183 - City: Leh  ID: 1264976 Lat: 34.1667, Lng 77.5833, Temp: 29.53, Humidity: 90, Cloud Cover: 99%, Wind Speed: 2.75
+184 - City: Sioux Lookout  ID: 6148373 Lat: 50.1001, Lng -91.917, Temp: 42.87, Humidity: 61, Cloud Cover: 75%, Wind Speed: 9.22
+185 - City: Oostburg  ID: 5265752 Lat: 43.6228, Lng -87.7945, Temp: 55.54, Humidity: 52, Cloud Cover: 75%, Wind Speed: 6.91
+186 - City: Salé  ID: 2537763 Lat: 34.0389, Lng -6.8166, Temp: 64.63, Humidity: 100, Cloud Cover: 0%, Wind Speed: 0
+187 - City: Ilulissat  ID: 3423146 Lat: 69.2167, Lng -51.1, Temp: 21.22, Humidity: 73, Cloud Cover: 75%, Wind Speed: 20.71
+*** City tumannyy not found! ***
+188 - City: Ancud  ID: 3899695 Lat: -41.8697, Lng -73.8203, Temp: 53.13, Humidity: 62, Cloud Cover: 5%, Wind Speed: 11.27
+189 - City: Lagoa  ID: 3372964 Lat: 39.05, Lng -27.9833, Temp: 66.45, Humidity: 66, Cloud Cover: 20%, Wind Speed: 14.85
+190 - City: Hilo  ID: 5855927 Lat: 19.7297, Lng -155.09, Temp: 77.25, Humidity: 88, Cloud Cover: 90%, Wind Speed: 4.61
+191 - City: Hamilton  ID: 4513583 Lat: 39.1834, Lng -84.5333, Temp: 60.24, Humidity: 70, Cloud Cover: 90%, Wind Speed: 4.61
+192 - City: Longyearbyen  ID: 2729907 Lat: 78.2186, Lng 15.6401, Temp: 19.24, Humidity: 86, Cloud Cover: 40%, Wind Speed: 4.61
+193 - City: Krasnosel'kup  ID: 1502073 Lat: 65.7, Lng 82.4667, Temp: 32.43, Humidity: 99, Cloud Cover: 100%, Wind Speed: 7.83
+194 - City: Shingū  ID: 1847947 Lat: 33.7333, Lng 135.9833, Temp: 49.41, Humidity: 70, Cloud Cover: 28%, Wind Speed: 5.68
+195 - City: Beloha  ID: 1067565 Lat: -25.1667, Lng 45.05, Temp: 69.8, Humidity: 88, Cloud Cover: 1%, Wind Speed: 3.09
+196 - City: Zheleznogorsk-Ilimskiy  ID: 2012557 Lat: 56.5768, Lng 104.1217, Temp: 28.76, Humidity: 92, Cloud Cover: 97%, Wind Speed: 5.75
+*** City dolbeau not found! ***
+197 - City: Hambantota  ID: 1244926 Lat: 6.1241, Lng 81.1185, Temp: 78.62, Humidity: 80, Cloud Cover: 31%, Wind Speed: 12.62
+*** City mys shmidta not found! ***
+198 - City: Coro  ID: 3645213 Lat: 11.4045, Lng -69.6734, Temp: 85.41, Humidity: 68, Cloud Cover: 33%, Wind Speed: 20.31
+199 - City: Ladário  ID: 3459352 Lat: -19.0047, Lng -57.6017, Temp: 104.29, Humidity: 29, Cloud Cover: 9%, Wind Speed: 16.11
+200 - City: Saldanha  ID: 3361934 Lat: -33.0117, Lng 17.9442, Temp: 55.45, Humidity: 73, Cloud Cover: 24%, Wind Speed: 7.49
+201 - City: San Juan del Cesar  ID: 3669469 Lat: 10.7711, Lng -73.0031, Temp: 88.43, Humidity: 56, Cloud Cover: 28%, Wind Speed: 7.78
+202 - City: Seymchan  ID: 2121373 Lat: 62.8833, Lng 152.4333, Temp: -1.68, Humidity: 85, Cloud Cover: 54%, Wind Speed: 3.31
+203 - City: Abu Dhabi  ID: 292968 Lat: 24.4667, Lng 54.3667, Temp: 84.31, Humidity: 70, Cloud Cover: 0%, Wind Speed: 5.75
+204 - City: Methóni  ID: 257122 Lat: 36.8197, Lng 21.7049, Temp: 67.21, Humidity: 68, Cloud Cover: 7%, Wind Speed: 6.04
+205 - City: Paamiut  ID: 3421193 Lat: 61.994, Lng -49.6678, Temp: 32.45, Humidity: 52, Cloud Cover: 98%, Wind Speed: 18.77
+*** City tsihombe not found! ***
+206 - City: Nantucket  ID: 4944903 Lat: 41.2835, Lng -70.0995, Temp: 61.14, Humidity: 75, Cloud Cover: 20%, Wind Speed: 11.3
+207 - City: Sabang  ID: 1214026 Lat: 5.8933, Lng 95.3214, Temp: 80.46, Humidity: 79, Cloud Cover: 94%, Wind Speed: 5.21
+208 - City: Brae  ID: 2654970 Lat: 60.3964, Lng -1.353, Temp: 51.71, Humidity: 90, Cloud Cover: 100%, Wind Speed: 25.12
+209 - City: Bengkulu  ID: 1649150 Lat: -3.8004, Lng 102.2655, Temp: 75.81, Humidity: 89, Cloud Cover: 60%, Wind Speed: 3.65
+*** City babanusah not found! ***
+210 - City: Banjarmasin  ID: 1650213 Lat: -3.3244, Lng 114.591, Temp: 77.14, Humidity: 91, Cloud Cover: 98%, Wind Speed: 1.95
+211 - City: Aklavik  ID: 5882953 Lat: 68.2191, Lng -135.0107, Temp: 30.2, Humidity: 80, Cloud Cover: 75%, Wind Speed: 5.75
+212 - City: Vygonichi  ID: 470473 Lat: 53.0985, Lng 34.0673, Temp: 37.51, Humidity: 87, Cloud Cover: 100%, Wind Speed: 11.18
+213 - City: Manggar  ID: 1636426 Lat: -2.8833, Lng 108.2667, Temp: 79.02, Humidity: 82, Cloud Cover: 37%, Wind Speed: 2.98
+214 - City: Natal  ID: 3394023 Lat: -5.795, Lng -35.2094, Temp: 83.05, Humidity: 74, Cloud Cover: 20%, Wind Speed: 11.5
+215 - City: Avarua  ID: 4035715 Lat: -21.2078, Lng -159.775, Temp: 75.25, Humidity: 57, Cloud Cover: 20%, Wind Speed: 9.22
+216 - City: Dunedin  ID: 2191562 Lat: -45.8742, Lng 170.5036, Temp: 54.81, Humidity: 78, Cloud Cover: 100%, Wind Speed: 7
+217 - City: San Cristobal  ID: 3628473 Lat: 7.7669, Lng -72.225, Temp: 80.78, Humidity: 67, Cloud Cover: 93%, Wind Speed: 3.6
+218 - City: Merke  ID: 1520969 Lat: 42.8728, Lng 73.1786, Temp: 44.15, Humidity: 49, Cloud Cover: 1%, Wind Speed: 5.48
+219 - City: Geraldton  ID: 2070998 Lat: -28.7667, Lng 114.6, Temp: 52.21, Humidity: 93, Cloud Cover: 18%, Wind Speed: 5.75
+220 - City: Kalevala  ID: 554318 Lat: 65.2, Lng 31.1667, Temp: 20.97, Humidity: 96, Cloud Cover: 100%, Wind Speed: 3.58
+221 - City: Matara  ID: 1235846 Lat: 5.9485, Lng 80.5353, Temp: 77.5, Humidity: 85, Cloud Cover: 33%, Wind Speed: 9.42
+222 - City: Kaga  ID: 1858910 Lat: 36.2997, Lng 136.3145, Temp: 44.53, Humidity: 87, Cloud Cover: 40%, Wind Speed: 5.75
+223 - City: Skellefteå  ID: 602913 Lat: 64.7507, Lng 20.9528, Temp: 23.36, Humidity: 93, Cloud Cover: 90%, Wind Speed: 4.61
+*** City kamenskoye not found! ***
+224 - City: Laguna  ID: 5364271 Lat: 38.421, Lng -121.4238, Temp: 67.21, Humidity: 65, Cloud Cover: 90%, Wind Speed: 4
+225 - City: Broken Hill  ID: 2173911 Lat: -31.95, Lng 141.4333, Temp: 47.91, Humidity: 71, Cloud Cover: 0%, Wind Speed: 12.66
+226 - City: Amahai  ID: 1651591 Lat: -3.3333, Lng 128.9167, Temp: 77.5, Humidity: 86, Cloud Cover: 96%, Wind Speed: 4.16
+227 - City: Xining  ID: 1788852 Lat: 36.6167, Lng 101.7667, Temp: 40.35, Humidity: 86, Cloud Cover: 99%, Wind Speed: 1.63
+228 - City: Hirara  ID: 1862505 Lat: 24.8, Lng 125.2833, Temp: 76.01, Humidity: 62, Cloud Cover: 91%, Wind Speed: 13.18
+229 - City: Bayonet Point  ID: 4146901 Lat: 28.3267, Lng -82.6834, Temp: 89.94, Humidity: 72, Cloud Cover: 99%, Wind Speed: 5.99
+230 - City: La Ronge  ID: 6050066 Lat: 55.1001, Lng -105.2842, Temp: 37.65, Humidity: 70, Cloud Cover: 75%, Wind Speed: 13.8
+231 - City: Kolvereid  ID: 3149577 Lat: 64.8655, Lng 11.6047, Temp: 37.62, Humidity: 94, Cloud Cover: 100%, Wind Speed: 8.39
+232 - City: Haines Junction  ID: 5969025 Lat: 60.7522, Lng -137.5108, Temp: 33.75, Humidity: 86, Cloud Cover: 83%, Wind Speed: 1.14
+233 - City: İstisu  ID: 586320 Lat: 40.9457, Lng 48.0738, Temp: 36.27, Humidity: 63, Cloud Cover: 0%, Wind Speed: 3.36
+234 - City: Butembo  ID: 217562 Lat: 0.15, Lng 29.2833, Temp: 58.33, Humidity: 93, Cloud Cover: 98%, Wind Speed: 2.35
+235 - City: Berlevåg  ID: 780687 Lat: 70.8578, Lng 29.0864, Temp: 35.85, Humidity: 60, Cloud Cover: 100%, Wind Speed: 20.85
+236 - City: Kalispell  ID: 5660340 Lat: 48.1958, Lng -114.3129, Temp: 52.32, Humidity: 48, Cloud Cover: 75%, Wind Speed: 1.01
+237 - City: Caxito  ID: 2242001 Lat: -8.5785, Lng 13.6643, Temp: 77.65, Humidity: 78, Cloud Cover: 89%, Wind Speed: 3.58
+238 - City: Baghdad  ID: 98182 Lat: 33.3406, Lng 44.4009, Temp: 78.46, Humidity: 21, Cloud Cover: 62%, Wind Speed: 6.22
+239 - City: Diu  ID: 1272502 Lat: 20.7141, Lng 70.9822, Temp: 75.96, Humidity: 69, Cloud Cover: 0%, Wind Speed: 8.59
+240 - City: Anderson  ID: 4569313 Lat: 34.5334, Lng -82.6499, Temp: 76.24, Humidity: 54, Cloud Cover: 1%, Wind Speed: 1.01
+241 - City: Chërnaya Kholunitsa  ID: 568954 Lat: 58.8511, Lng 51.7154, Temp: 40.32, Humidity: 84, Cloud Cover: 100%, Wind Speed: 7.2
+242 - City: Mossamedes  ID: 3347019 Lat: -15.1961, Lng 12.1522, Temp: 65.41, Humidity: 72, Cloud Cover: 65%, Wind Speed: 9.95
+243 - City: Tiksi  ID: 2015306 Lat: 71.6872, Lng 128.8694, Temp: 0.88, Humidity: 97, Cloud Cover: 100%, Wind Speed: 7.65
+244 - City: Payyanur  ID: 1259994 Lat: 12.1, Lng 75.2, Temp: 74.53, Humidity: 93, Cloud Cover: 97%, Wind Speed: 5.21
+245 - City: Araguaína  ID: 3407357 Lat: -7.1911, Lng -48.2072, Temp: 80.51, Humidity: 72, Cloud Cover: 100%, Wind Speed: 5.48
+*** City katsiveli not found! ***
+246 - City: Santa Fe  ID: 3836277 Lat: -31.6333, Lng -60.7, Temp: 73.99, Humidity: 43, Cloud Cover: 29%, Wind Speed: 8.01
+247 - City: Buraidah  ID: 107304 Lat: 26.326, Lng 43.975, Temp: 77.45, Humidity: 18, Cloud Cover: 0%, Wind Speed: 7.7
+248 - City: Belaya Gora  ID: 2126785 Lat: 68.5333, Lng 146.4167, Temp: -6.95, Humidity: 93, Cloud Cover: 99%, Wind Speed: 4.34
+249 - City: Kapoeta  ID: 372884 Lat: 4.7717, Lng 33.5903, Temp: 83.77, Humidity: 38, Cloud Cover: 40%, Wind Speed: 4.56
+250 - City: Arman'  ID: 2127060 Lat: 59.7, Lng 150.1667, Temp: 20.1, Humidity: 69, Cloud Cover: 99%, Wind Speed: 10.45
+251 - City: Klamath Falls  ID: 5735238 Lat: 42.2249, Lng -121.7817, Temp: 42.87, Humidity: 81, Cloud Cover: 90%, Wind Speed: 4.61
+252 - City: Hailey  ID: 5594956 Lat: 43.5196, Lng -114.3153, Temp: 46.9, Humidity: 57, Cloud Cover: 90%, Wind Speed: 5.75
+253 - City: Verkhnevilyuysk  ID: 2013639 Lat: 63.4453, Lng 120.3167, Temp: 34.41, Humidity: 93, Cloud Cover: 100%, Wind Speed: 9.08
+254 - City: Bereda  ID: 3105522 Lat: 43.2686, Lng -7.5406, Temp: 51.91, Humidity: 93, Cloud Cover: 71%, Wind Speed: 1.32
+255 - City: Kapuskasing  ID: 5989403 Lat: 49.4169, Lng -82.4331, Temp: 41.09, Humidity: 87, Cloud Cover: 90%, Wind Speed: 10.36
+256 - City: Coffs Harbour  ID: 2171085 Lat: -30.3, Lng 153.1333, Temp: 66.47, Humidity: 94, Cloud Cover: 0%, Wind Speed: 1.14
+257 - City: Katsuura  ID: 2112309 Lat: 35.1333, Lng 140.3, Temp: 51.91, Humidity: 58, Cloud Cover: 33%, Wind Speed: 7.2
+258 - City: Bonthe  ID: 2409914 Lat: 7.5264, Lng -12.505, Temp: 79.25, Humidity: 82, Cloud Cover: 100%, Wind Speed: 4
+259 - City: Port Hawkesbury  ID: 6111867 Lat: 45.6169, Lng -61.3485, Temp: 64.69, Humidity: 96, Cloud Cover: 90%, Wind Speed: 3
+260 - City: Zhengjiatun  ID: 2033135 Lat: 43.5064, Lng 123.5064, Temp: 40.21, Humidity: 67, Cloud Cover: 0%, Wind Speed: 7.27
+261 - City: Kungurtug  ID: 1501377 Lat: 50.5994, Lng 97.5228, Temp: 26.24, Humidity: 73, Cloud Cover: 1%, Wind Speed: 1.01
+262 - City: Mandan  ID: 5690366 Lat: 46.8267, Lng -100.8896, Temp: 51.78, Humidity: 44, Cloud Cover: 1%, Wind Speed: 20.71
+263 - City: Souillac  ID: 933995 Lat: -20.5167, Lng 57.5167, Temp: 75.58, Humidity: 83, Cloud Cover: 75%, Wind Speed: 11.5
+264 - City: Buinsk  ID: 571155 Lat: 54.95, Lng 48.2833, Temp: 49.89, Humidity: 72, Cloud Cover: 100%, Wind Speed: 12.8
+265 - City: Arucas  ID: 2521519 Lat: 28.1198, Lng -15.5233, Temp: 68.83, Humidity: 85, Cloud Cover: 94%, Wind Speed: 10.85
+266 - City: Vanavara  ID: 2013727 Lat: 60.34, Lng 102.2797, Temp: 31.19, Humidity: 76, Cloud Cover: 100%, Wind Speed: 11.32
+267 - City: La Palma  ID: 5364022 Lat: 33.8464, Lng -118.0467, Temp: 73.04, Humidity: 81, Cloud Cover: 75%, Wind Speed: 1.01
+268 - City: Athens  ID: 264371 Lat: 37.9795, Lng 23.7162, Temp: 69.22, Humidity: 82, Cloud Cover: 6%, Wind Speed: 1.01
+269 - City: East London  ID: 1006984 Lat: -33.0153, Lng 27.9116, Temp: 61.75, Humidity: 67, Cloud Cover: 61%, Wind Speed: 19.98
+270 - City: Genhe  ID: 2037252 Lat: 50.7833, Lng 121.5167, Temp: 29.41, Humidity: 89, Cloud Cover: 0%, Wind Speed: 2.06
+271 - City: Aktau  ID: 610612 Lat: 43.65, Lng 51.2, Temp: 46.98, Humidity: 38, Cloud Cover: 0%, Wind Speed: 12.46
+272 - City: Coxim  ID: 3465228 Lat: -18.5067, Lng -54.76, Temp: 98.1, Humidity: 30, Cloud Cover: 47%, Wind Speed: 14.85
+273 - City: Sultānpur  ID: 1255491 Lat: 26.2667, Lng 82.0667, Temp: 71.4, Humidity: 64, Cloud Cover: 0%, Wind Speed: 4.7
+274 - City: Maïné Soroa  ID: 2441447 Lat: 13.2114, Lng 12.0241, Temp: 88.43, Humidity: 14, Cloud Cover: 12%, Wind Speed: 7.31
+275 - City: Lüderitz  ID: 3355672 Lat: -26.6481, Lng 15.1594, Temp: 57.67, Humidity: 74, Cloud Cover: 0%, Wind Speed: 17.78
+*** City fort saint john not found! ***
+276 - City: Joshīmath  ID: 1268814 Lat: 30.5667, Lng 79.5667, Temp: 51.96, Humidity: 54, Cloud Cover: 0%, Wind Speed: 6.42
+277 - City: Luba  ID: 2309528 Lat: 3.4568, Lng 8.5547, Temp: 76.89, Humidity: 85, Cloud Cover: 65%, Wind Speed: 1.43
+278 - City: Adrar  ID: 2381972 Lat: 20.5022, Lng -10.0711, Temp: 80.74, Humidity: 19, Cloud Cover: 1%, Wind Speed: 4.36
+*** City aflu not found! ***
+279 - City: Ada  ID: 5583739 Lat: 43.4166, Lng -116.1262, Temp: 52.41, Humidity: 62, Cloud Cover: 90%, Wind Speed: 0
+280 - City: Bandarbeyla  ID: 64814 Lat: 9.4942, Lng 50.8122, Temp: 77.56, Humidity: 81, Cloud Cover: 23%, Wind Speed: 8.61
+281 - City: Port Lincoln  ID: 2063036 Lat: -34.7333, Lng 135.8667, Temp: 54.45, Humidity: 77, Cloud Cover: 1%, Wind Speed: 9.22
+282 - City: Acapulco de Juárez  ID: 3533462 Lat: 16.8634, Lng -99.8901, Temp: 75.02, Humidity: 94, Cloud Cover: 90%, Wind Speed: 14.97
+283 - City: Talnakh  ID: 1490256 Lat: 69.4865, Lng 88.3972, Temp: 20.07, Humidity: 96, Cloud Cover: 98%, Wind Speed: 6.67
+284 - City: Severo-Kuril'sk  ID: 2121385 Lat: 50.6789, Lng 156.125, Temp: 39.85, Humidity: 77, Cloud Cover: 91%, Wind Speed: 9.8
+285 - City: Tabou  ID: 2281120 Lat: 4.423, Lng -7.3528, Temp: 76.8, Humidity: 90, Cloud Cover: 44%, Wind Speed: 7.38
+286 - City: Kwakoa  ID: 156312 Lat: -3.7667, Lng 37.7167, Temp: 71.04, Humidity: 74, Cloud Cover: 74%, Wind Speed: 5.17
+287 - City: Cidreira  ID: 3466165 Lat: -30.1811, Lng -50.2056, Temp: 64.81, Humidity: 95, Cloud Cover: 100%, Wind Speed: 5.75
+288 - City: Banda Aceh  ID: 1215502 Lat: 5.5577, Lng 95.3222, Temp: 78.49, Humidity: 83, Cloud Cover: 100%, Wind Speed: 0.69
+289 - City: Nizhniy Tsasuchey  ID: 2019118 Lat: 50.5167, Lng 115.1333, Temp: 33.76, Humidity: 60, Cloud Cover: 5%, Wind Speed: 4.72
+290 - City: Diffa  ID: 2445704 Lat: 13.3154, Lng 12.6113, Temp: 86.52, Humidity: 16, Cloud Cover: 14%, Wind Speed: 7.16
+291 - City: Malbork  ID: 3092472 Lat: 54.0359, Lng 19.0266, Temp: 40.87, Humidity: 83, Cloud Cover: 13%, Wind Speed: 7.05
+292 - City: Illapel  ID: 3887344 Lat: -31.6308, Lng -71.1653, Temp: 67.42, Humidity: 44, Cloud Cover: 0%, Wind Speed: 8.7
+293 - City: May Pen  ID: 3489523 Lat: 17.9645, Lng -77.2451, Temp: 87.01, Humidity: 71, Cloud Cover: 55%, Wind Speed: 8.3
+*** City trikerion not found! ***
+294 - City: Barreirinhas  ID: 3406196 Lat: -2.7469, Lng -42.8264, Temp: 80.92, Humidity: 77, Cloud Cover: 100%, Wind Speed: 8.52
+295 - City: Tigil'  ID: 2120612 Lat: 57.8, Lng 158.6667, Temp: 26.78, Humidity: 91, Cloud Cover: 100%, Wind Speed: 6.44
+296 - City: Port Hardy  ID: 6111862 Lat: 50.6996, Lng -127.4199, Temp: 51.98, Humidity: 66, Cloud Cover: 75%, Wind Speed: 6.91
+297 - City: Constitución  ID: 3893726 Lat: -35.3333, Lng -72.4167, Temp: 57.51, Humidity: 66, Cloud Cover: 0%, Wind Speed: 18.86
+298 - City: Vidim  ID: 2013406 Lat: 56.4088, Lng 103.1106, Temp: 30.04, Humidity: 92, Cloud Cover: 100%, Wind Speed: 6.91
+299 - City: General Pico  ID: 3855075 Lat: -35.6566, Lng -63.7568, Temp: 72.5, Humidity: 20, Cloud Cover: 0%, Wind Speed: 16.26
+300 - City: Clyde River  ID: 5924351 Lat: 70.4692, Lng -68.5914, Temp: 21.15, Humidity: 81, Cloud Cover: 93%, Wind Speed: 13.94
+*** City ust-kamchatsk not found! ***
+301 - City: Almenara  ID: 3472520 Lat: -16.1836, Lng -40.6944, Temp: 73.49, Humidity: 92, Cloud Cover: 100%, Wind Speed: 3.04
+302 - City: Iqaluit  ID: 5983720 Lat: 63.7506, Lng -68.5145, Temp: 33.53, Humidity: 74, Cloud Cover: 90%, Wind Speed: 13
+303 - City: Marovoay  ID: 1059507 Lat: -16.1, Lng 46.6333, Temp: 78.94, Humidity: 73, Cloud Cover: 74%, Wind Speed: 1.28
+304 - City: Manicoré  ID: 3663503 Lat: -5.8092, Lng -61.3003, Temp: 91.38, Humidity: 47, Cloud Cover: 81%, Wind Speed: 2.53
+305 - City: Dikson  ID: 1507390 Lat: 73.5069, Lng 80.5464, Temp: 8.22, Humidity: 88, Cloud Cover: 98%, Wind Speed: 12.41
+*** City sentyabrskiy not found! ***
+*** City halalo not found! ***
+*** City monatele not found! ***
+306 - City: Mitú  ID: 3674676 Lat: 1.1983, Lng -70.1733, Temp: 81.81, Humidity: 81, Cloud Cover: 93%, Wind Speed: 2.28
+*** City marcona not found! ***
+307 - City: Reconquista  ID: 3429594 Lat: -29.15, Lng -59.65, Temp: 62.82, Humidity: 91, Cloud Cover: 100%, Wind Speed: 10.71
+308 - City: Deputatsky  ID: 2028164 Lat: 69.3, Lng 139.9, Temp: -5.85, Humidity: 100, Cloud Cover: 100%, Wind Speed: 1.48
+309 - City: Carlsbad  ID: 5334223 Lat: 33.1581, Lng -117.3506, Temp: 72.64, Humidity: 70, Cloud Cover: 75%, Wind Speed: 5.99
+310 - City: Inhambane  ID: 1045114 Lat: -23.865, Lng 35.3833, Temp: 74.35, Humidity: 88, Cloud Cover: 0%, Wind Speed: 16.53
+*** City thilogne not found! ***
+311 - City: Karratha  ID: 6620339 Lat: -20.7377, Lng 116.8463, Temp: 79, Humidity: 38, Cloud Cover: 92%, Wind Speed: 3
+312 - City: Cabo San Lucas  ID: 3985710 Lat: 22.8909, Lng -109.9124, Temp: 92.52, Humidity: 58, Cloud Cover: 20%, Wind Speed: 13.8
+313 - City: Nālūt  ID: 2214432 Lat: 30.3333, Lng 10.85, Temp: 74.57, Humidity: 41, Cloud Cover: 100%, Wind Speed: 2.53
+314 - City: Matagami  ID: 6067747 Lat: 49.7502, Lng -77.6328, Temp: 44.71, Humidity: 57, Cloud Cover: 90%, Wind Speed: 11.5
+315 - City: Meulaboh  ID: 1214488 Lat: 4.1363, Lng 96.1285, Temp: 76.6, Humidity: 89, Cloud Cover: 100%, Wind Speed: 3.18
+316 - City: Sovetskiy  ID: 1491230 Lat: 61.3614, Lng 63.5842, Temp: 39.4, Humidity: 78, Cloud Cover: 94%, Wind Speed: 13.94
+317 - City: Domoni  ID: 921906 Lat: -12.2569, Lng 44.5319, Temp: 77.92, Humidity: 81, Cloud Cover: 44%, Wind Speed: 3.44
+318 - City: Elko  ID: 5703673 Lat: 41.0002, Lng -115.5012, Temp: 46.74, Humidity: 74, Cloud Cover: 100%, Wind Speed: 14
+319 - City: Valparaíso  ID: 3868626 Lat: -33.0393, Lng -71.6273, Temp: 73.04, Humidity: 43, Cloud Cover: 0%, Wind Speed: 19.57
+320 - City: Lishu  ID: 2036055 Lat: 43.3047, Lng 124.3278, Temp: 39.47, Humidity: 74, Cloud Cover: 0%, Wind Speed: 7.92
+321 - City: Puerto Quijarro  ID: 3444201 Lat: -17.7833, Lng -57.7667, Temp: 105.51, Humidity: 23, Cloud Cover: 3%, Wind Speed: 10.96
+322 - City: Tilichiki  ID: 2120591 Lat: 60.4667, Lng 166.1, Temp: 7.02, Humidity: 90, Cloud Cover: 99%, Wind Speed: 7.99
+323 - City: Denpasar  ID: 1645528 Lat: -8.65, Lng 115.2167, Temp: 78.46, Humidity: 83, Cloud Cover: 40%, Wind Speed: 3.44
+324 - City: Baykit  ID: 1510689 Lat: 61.67, Lng 96.37, Temp: 33.67, Humidity: 96, Cloud Cover: 100%, Wind Speed: 8.99
+325 - City: Jiazi  ID: 1805935 Lat: 22.8779, Lng 116.067, Temp: 66.25, Humidity: 77, Cloud Cover: 89%, Wind Speed: 9.08
+326 - City: Dali  ID: 1814093 Lat: 25.7, Lng 100.1833, Temp: 53.22, Humidity: 94, Cloud Cover: 17%, Wind Speed: 1.16
+327 - City: Nuuk  ID: 3421319 Lat: 64.1835, Lng -51.7216, Temp: 29.01, Humidity: 50, Cloud Cover: 75%, Wind Speed: 12.66
+328 - City: Valdivia  ID: 3868707 Lat: -39.8142, Lng -73.2459, Temp: 59.09, Humidity: 97, Cloud Cover: 100%, Wind Speed: 2.77
+*** City saleaula not found! ***
+329 - City: Anadyr  ID: 2127202 Lat: 64.75, Lng 177.4833, Temp: -3.5, Humidity: 83, Cloud Cover: 40%, Wind Speed: 8.01
+330 - City: Chernyshevskiy  ID: 2025456 Lat: 63.0128, Lng 112.4714, Temp: 28.47, Humidity: 83, Cloud Cover: 72%, Wind Speed: 10.29
+331 - City: Dwārka  ID: 1272140 Lat: 22.2394, Lng 68.9678, Temp: 81.21, Humidity: 63, Cloud Cover: 73%, Wind Speed: 16.71
+332 - City: Yinzhu  ID: 1792087 Lat: 35.8786, Lng 119.9753, Temp: 44.62, Humidity: 72, Cloud Cover: 100%, Wind Speed: 3.62
+*** City warqla not found! ***
+333 - City: Halle  ID: 2911522 Lat: 51.5, Lng 12, Temp: 47.16, Humidity: 85, Cloud Cover: 0%, Wind Speed: 4.61
+334 - City: Edgewater  ID: 4154205 Lat: 28.9889, Lng -80.9023, Temp: 88.18, Humidity: 65, Cloud Cover: 40%, Wind Speed: 11.5
+335 - City: Asău  ID: 686090 Lat: 46.4333, Lng 26.4, Temp: 45.95, Humidity: 69, Cloud Cover: 99%, Wind Speed: 1.3
+336 - City: Mabaruma  ID: 3377301 Lat: 8.2, Lng -59.7833, Temp: 76.3, Humidity: 95, Cloud Cover: 100%, Wind Speed: 4.27
+337 - City: Baharly  ID: 162158 Lat: 38.4362, Lng 57.4316, Temp: 56.34, Humidity: 21, Cloud Cover: 0%, Wind Speed: 8.23
+*** City skalistyy not found! ***
+338 - City: Lyubim  ID: 532600 Lat: 58.3625, Lng 40.6843, Temp: 37.58, Humidity: 93, Cloud Cover: 96%, Wind Speed: 5.08
+339 - City: Redlands  ID: 5386754 Lat: 34.0556, Lng -117.1825, Temp: 74.32, Humidity: 70, Cloud Cover: 90%, Wind Speed: 0
+340 - City: Fairbanks  ID: 5861897 Lat: 64.8378, Lng -147.7164, Temp: 35.92, Humidity: 84, Cloud Cover: 1%, Wind Speed: 0
+341 - City: Sicamous  ID: 6147353 Lat: 50.8331, Lng -118.9856, Temp: 58.12, Humidity: 73, Cloud Cover: 100%, Wind Speed: 3.04
+342 - City: Kotelnikowo  ID: 543728 Lat: 47.6317, Lng 43.1461, Temp: 55, Humidity: 79, Cloud Cover: 100%, Wind Speed: 8.66
+343 - City: Necochea  ID: 3430443 Lat: -38.5473, Lng -58.7368, Temp: 58.03, Humidity: 68, Cloud Cover: 23%, Wind Speed: 20.6
+344 - City: Eyl  ID: 60019 Lat: 7.9803, Lng 49.8164, Temp: 77.83, Humidity: 78, Cloud Cover: 16%, Wind Speed: 9.62
+345 - City: Samarai  ID: 2132606 Lat: -10.6167, Lng 150.6667, Temp: 80.46, Humidity: 82, Cloud Cover: 91%, Wind Speed: 12.39
+346 - City: Port Augusta  ID: 2063056 Lat: -32.5, Lng 137.7667, Temp: 53.74, Humidity: 68, Cloud Cover: 0%, Wind Speed: 6.76
+347 - City: Klaksvík  ID: 2618795 Lat: 62.2266, Lng -6.589, Temp: 50.92, Humidity: 87, Cloud Cover: 79%, Wind Speed: 19.84
+348 - City: Alice Springs  ID: 2077895 Lat: -23.7, Lng 133.8833, Temp: 67.55, Humidity: 32, Cloud Cover: 69%, Wind Speed: 11.5
+349 - City: Serrinha  ID: 3447690 Lat: -11.6642, Lng -39.0075, Temp: 76.21, Humidity: 78, Cloud Cover: 100%, Wind Speed: 8.14
+350 - City: Jiblah  ID: 74185 Lat: 13.9216, Lng 44.1467, Temp: 60.21, Humidity: 67, Cloud Cover: 58%, Wind Speed: 1.34
+351 - City: Parkes  ID: 2153778 Lat: -33.1333, Lng 148.1833, Temp: 49.95, Humidity: 73, Cloud Cover: 0%, Wind Speed: 7.94
+352 - City: Faanui  ID: 4034551 Lat: -16.4833, Lng -151.75, Temp: 78.08, Humidity: 75, Cloud Cover: 100%, Wind Speed: 4.61
+353 - City: Cuiluan  ID: 2033413 Lat: 47.72, Lng 128.648, Temp: 32.5, Humidity: 75, Cloud Cover: 7%, Wind Speed: 4.45
+354 - City: Corning  ID: 5113760 Lat: 42.1428, Lng -77.0547, Temp: 51.35, Humidity: 81, Cloud Cover: 90%, Wind Speed: 5.75
+355 - City: Montepuez  ID: 1037125 Lat: -13.1256, Lng 38.9997, Temp: 71.29, Humidity: 73, Cloud Cover: 6%, Wind Speed: 7.29
+356 - City: Ormara  ID: 1168700 Lat: 25.2088, Lng 64.6357, Temp: 79.56, Humidity: 37, Cloud Cover: 0%, Wind Speed: 13.33
+*** City amderma not found! ***
+357 - City: Tuy Hoa  ID: 1563281 Lat: 13.0833, Lng 109.3, Temp: 75.9, Humidity: 96, Cloud Cover: 100%, Wind Speed: 8.59
+358 - City: Hobyo  ID: 57000 Lat: 5.3505, Lng 48.5268, Temp: 79.3, Humidity: 79, Cloud Cover: 49%, Wind Speed: 9.66
+359 - City: Mount Isa  ID: 2065594 Lat: -20.7333, Lng 139.5, Temp: 69.57, Humidity: 78, Cloud Cover: 4%, Wind Speed: 0
+360 - City: Bangassou  ID: 240498 Lat: 4.7413, Lng 22.8184, Temp: 70.29, Humidity: 96, Cloud Cover: 81%, Wind Speed: 1.05
+361 - City: Airai  ID: 1651810 Lat: -8.9266, Lng 125.4092, Temp: 60.66, Humidity: 75, Cloud Cover: 30%, Wind Speed: 2.46
+362 - City: Rocky Mountain House  ID: 6126749 Lat: 52.3668, Lng -114.9188, Temp: 42.55, Humidity: 100, Cloud Cover: 100%, Wind Speed: 5.75
+363 - City: Belmonte  ID: 3470137 Lat: -15.8631, Lng -38.8828, Temp: 77.5, Humidity: 92, Cloud Cover: 100%, Wind Speed: 8.41
+364 - City: Caribou  ID: 4960140 Lat: 46.8606, Lng -68.012, Temp: 49.17, Humidity: 68, Cloud Cover: 90%, Wind Speed: 6.91
+365 - City: Ludvika  ID: 2693759 Lat: 60.1496, Lng 15.1878, Temp: 34.03, Humidity: 79, Cloud Cover: 64%, Wind Speed: 3.53
+366 - City: Cap Malheureux  ID: 934649 Lat: -19.9842, Lng 57.6142, Temp: 75.69, Humidity: 77, Cloud Cover: 90%, Wind Speed: 4
+367 - City: Tiznit Province  ID: 2527087 Lat: 29.5833, Lng -9.5, Temp: 64.26, Humidity: 74, Cloud Cover: 0%, Wind Speed: 0.94
+368 - City: Igurusi  ID: 159380 Lat: -8.85, Lng 33.85, Temp: 72.09, Humidity: 42, Cloud Cover: 6%, Wind Speed: 3.04
+369 - City: Diego de Almagro  ID: 3892454 Lat: -26.3667, Lng -70.05, Temp: 69.04, Humidity: 19, Cloud Cover: 0%, Wind Speed: 9.71
+370 - City: Mahibadhoo  ID: 1337605 Lat: 3.7833, Lng 72.9667, Temp: 82.29, Humidity: 74, Cloud Cover: 72%, Wind Speed: 14.81
+371 - City: Beipiao  ID: 2038342 Lat: 41.7919, Lng 120.7792, Temp: 41.04, Humidity: 62, Cloud Cover: 0%, Wind Speed: 2.75
+372 - City: Lata  ID: 2738381 Lat: 40.1629, Lng -8.3327, Temp: 58.82, Humidity: 67, Cloud Cover: 42%, Wind Speed: 0.63
+373 - City: Nadvoitsy  ID: 523662 Lat: 63.8667, Lng 34.3167, Temp: 27.86, Humidity: 92, Cloud Cover: 100%, Wind Speed: 7
+374 - City: Sungai Penuh  ID: 1625929 Lat: -2.0833, Lng 101.3833, Temp: 63.95, Humidity: 94, Cloud Cover: 67%, Wind Speed: 2.68
+375 - City: Menongue  ID: 3347353 Lat: -14.6585, Lng 17.691, Temp: 69.44, Humidity: 67, Cloud Cover: 45%, Wind Speed: 4.18
+376 - City: Kedrovyy  ID: 1538641 Lat: 56.1667, Lng 91.8167, Temp: 36.01, Humidity: 96, Cloud Cover: 100%, Wind Speed: 14.9
+377 - City: Plouzané  ID: 2986626 Lat: 48.3833, Lng -4.6167, Temp: 53.65, Humidity: 76, Cloud Cover: 90%, Wind Speed: 9.22
+*** City kuche not found! ***
+378 - City: Itaituba  ID: 3397967 Lat: -4.2761, Lng -55.9836, Temp: 80.76, Humidity: 89, Cloud Cover: 75%, Wind Speed: 5.75
+379 - City: Orël-Izumrud  ID: 803494 Lat: 43.4583, Lng 39.9244, Temp: 58.55, Humidity: 93, Cloud Cover: 20%, Wind Speed: 8.95
+380 - City: Mayo  ID: 4362001 Lat: 38.8876, Lng -76.5119, Temp: 70.14, Humidity: 65, Cloud Cover: 90%, Wind Speed: 1.01
+*** City wulanhaote not found! ***
+381 - City: Forsytheganj  ID: 10722858 Lat: 52.6333, Lng 29.7333, Temp: 42.73, Humidity: 72, Cloud Cover: 100%, Wind Speed: 12.33
+382 - City: Lompoc  ID: 5367788 Lat: 34.6391, Lng -120.4579, Temp: 75.02, Humidity: 60, Cloud Cover: 1%, Wind Speed: 12.66
+383 - City: Escanaba  ID: 4992232 Lat: 45.7453, Lng -87.0646, Temp: 51.21, Humidity: 64, Cloud Cover: 90%, Wind Speed: 6.91
+384 - City: Kieta  ID: 2094027 Lat: -6.2167, Lng 155.6333, Temp: 82.26, Humidity: 74, Cloud Cover: 17%, Wind Speed: 3.2
+385 - City: Linhares  ID: 3458498 Lat: -19.3911, Lng -40.0722, Temp: 73.15, Humidity: 83, Cloud Cover: 51%, Wind Speed: 7.09
+386 - City: Goulburn  ID: 2164837 Lat: -34.75, Lng 149.7167, Temp: 51.66, Humidity: 76, Cloud Cover: 0%, Wind Speed: 11.63
+387 - City: Byron Bay  ID: 2172880 Lat: -28.65, Lng 153.6167, Temp: 76.71, Humidity: 80, Cloud Cover: 59%, Wind Speed: 6.78
+388 - City: Skibotn  ID: 7626405 Lat: 69.3913, Lng 20.2679, Temp: 30.47, Humidity: 93, Cloud Cover: 87%, Wind Speed: 5.75
+389 - City: Solnechnyy  ID: 2016307 Lat: 50.7214, Lng 136.6319, Temp: 32.04, Humidity: 87, Cloud Cover: 0%, Wind Speed: 3.13
+390 - City: Camapuã  ID: 3468020 Lat: -19.5314, Lng -54.0439, Temp: 91.76, Humidity: 38, Cloud Cover: 59%, Wind Speed: 13.06
+391 - City: Carnarvon  ID: 2074865 Lat: -24.8667, Lng 113.6333, Temp: 64.47, Humidity: 82, Cloud Cover: 0%, Wind Speed: 6.91
+392 - City: Jutaí  ID: 3663693 Lat: -5.1833, Lng -68.9, Temp: 87.39, Humidity: 60, Cloud Cover: 80%, Wind Speed: 2.57
+393 - City: Oranjemund  ID: 3354071 Lat: -28.55, Lng 16.4333, Temp: 57.43, Humidity: 81, Cloud Cover: 0%, Wind Speed: 15.21
+394 - City: Nishifukuma  ID: 1863978 Lat: 33.7667, Lng 130.4667, Temp: 60.8, Humidity: 63, Cloud Cover: 96%, Wind Speed: 7.09
+395 - City: Codajás  ID: 3664525 Lat: -3.8367, Lng -62.0569, Temp: 87.01, Humidity: 58, Cloud Cover: 99%, Wind Speed: 1.7
+396 - City: Caravelas  ID: 3466980 Lat: -17.7125, Lng -39.2481, Temp: 74.48, Humidity: 82, Cloud Cover: 22%, Wind Speed: 6.67
+397 - City: Roald  ID: 3141667 Lat: 62.5833, Lng 6.1333, Temp: 46.33, Humidity: 76, Cloud Cover: 75%, Wind Speed: 13.8
+398 - City: Guapó  ID: 3461943 Lat: -16.8306, Lng -49.5319, Temp: 86.38, Humidity: 48, Cloud Cover: 100%, Wind Speed: 8.39
+399 - City: Luwuk  ID: 1637001 Lat: -0.9516, Lng 122.7875, Temp: 76.41, Humidity: 79, Cloud Cover: 100%, Wind Speed: 2.84
+400 - City: Kyra  ID: 2021041 Lat: 49.5776, Lng 111.9753, Temp: 31.69, Humidity: 59, Cloud Cover: 43%, Wind Speed: 3.76
+401 - City: Hualmay  ID: 3939761 Lat: -11.0964, Lng -77.6139, Temp: 67.33, Humidity: 73, Cloud Cover: 11%, Wind Speed: 12.59
+402 - City: Atasū  ID: 1526041 Lat: 48.6814, Lng 71.6433, Temp: 39.45, Humidity: 52, Cloud Cover: 3%, Wind Speed: 10.8
+403 - City: Mount Gambier  ID: 2156643 Lat: -37.8333, Lng 140.7667, Temp: 44.51, Humidity: 87, Cloud Cover: 98%, Wind Speed: 5.75
+404 - City: Hopfgarten  ID: 2899194 Lat: 50.9833, Lng 11.2667, Temp: 42.44, Humidity: 79, Cloud Cover: 65%, Wind Speed: 2.8
+405 - City: Poddor'ye  ID: 508441 Lat: 57.4695, Lng 31.1156, Temp: 38.14, Humidity: 96, Cloud Cover: 100%, Wind Speed: 10.22
+406 - City: Te Anau  ID: 2181625 Lat: -45.4167, Lng 167.7167, Temp: 50.31, Humidity: 96, Cloud Cover: 100%, Wind Speed: 1.05
+407 - City: Skjervøy  ID: 777682 Lat: 70.0311, Lng 20.9714, Temp: 33.28, Humidity: 92, Cloud Cover: 100%, Wind Speed: 8.75
+408 - City: La Grande  ID: 5735537 Lat: 45.3246, Lng -118.0877, Temp: 56.57, Humidity: 79, Cloud Cover: 98%, Wind Speed: 5.97
+409 - City: Los Llanos de Aridane  ID: 2514651 Lat: 28.6585, Lng -17.9182, Temp: 66.13, Humidity: 77, Cloud Cover: 90%, Wind Speed: 5.01
+410 - City: Barguzin  ID: 2027109 Lat: 53.6167, Lng 109.6167, Temp: 31.73, Humidity: 82, Cloud Cover: 71%, Wind Speed: 1.77
+411 - City: Tumut  ID: 2145875 Lat: -35.3, Lng 148.2167, Temp: 43.79, Humidity: 95, Cloud Cover: 57%, Wind Speed: 2.59
+412 - City: Vanimo  ID: 2084442 Lat: -2.6741, Lng 141.3028, Temp: 77.61, Humidity: 85, Cloud Cover: 56%, Wind Speed: 5.93
+413 - City: Terra Santa  ID: 3386467 Lat: -2.1042, Lng -56.4869, Temp: 85.35, Humidity: 64, Cloud Cover: 100%, Wind Speed: 2.77
+414 - City: Oodweyne  ID: 53372 Lat: 9.4092, Lng 45.064, Temp: 71.96, Humidity: 37, Cloud Cover: 2%, Wind Speed: 11.86
+415 - City: Kloulklubed  ID: 7671223 Lat: 7.0419, Lng 134.2556, Temp: 82.42, Humidity: 71, Cloud Cover: 24%, Wind Speed: 1.39
+416 - City: Japura  ID: 1642773 Lat: -0.3167, Lng 102.35, Temp: 73.04, Humidity: 98, Cloud Cover: 64%, Wind Speed: 0.83
+417 - City: Sisimiut  ID: 3419842 Lat: 66.9395, Lng -53.6735, Temp: 23.85, Humidity: 95, Cloud Cover: 100%, Wind Speed: 12.71
+418 - City: Kahului  ID: 5847411 Lat: 20.8947, Lng -156.47, Temp: 83.97, Humidity: 75, Cloud Cover: 40%, Wind Speed: 19.57
+419 - City: Alofi  ID: 4036284 Lat: -19.0595, Lng -169.9187, Temp: 76.89, Humidity: 61, Cloud Cover: 75%, Wind Speed: 18.41
+420 - City: Grand Gaube  ID: 934479 Lat: -20.0064, Lng 57.6608, Temp: 75.6, Humidity: 77, Cloud Cover: 93%, Wind Speed: 4
+421 - City: Visnes  ID: 3131500 Lat: 59.3556, Lng 5.2242, Temp: 50.22, Humidity: 87, Cloud Cover: 75%, Wind Speed: 17.27
+422 - City: Panabá  ID: 3521972 Lat: 21.2833, Lng -88.2667, Temp: 85.62, Humidity: 67, Cloud Cover: 100%, Wind Speed: 11.63
+423 - City: Brodokalmak  ID: 1508802 Lat: 55.5748, Lng 62.082, Temp: 49.1, Humidity: 83, Cloud Cover: 63%, Wind Speed: 11.16
+*** City deh rawud not found! ***
+424 - City: Hegang  ID: 2036986 Lat: 47.4, Lng 130.3667, Temp: 36.91, Humidity: 61, Cloud Cover: 0%, Wind Speed: 5.3
+425 - City: Palmas  ID: 3474574 Lat: -10.2128, Lng -48.3603, Temp: 80.47, Humidity: 78, Cloud Cover: 40%, Wind Speed: 11.5
+426 - City: Kiryat Gat  ID: 293842 Lat: 31.61, Lng 34.7642, Temp: 71.82, Humidity: 100, Cloud Cover: 0%, Wind Speed: 5.06
+427 - City: Rome  ID: 5134295 Lat: 43.2128, Lng -75.4557, Temp: 51.44, Humidity: 69, Cloud Cover: 90%, Wind Speed: 8.05
+428 - City: Beranang  ID: 1734802 Lat: 2.8733, Lng 101.8697, Temp: 78.58, Humidity: 93, Cloud Cover: 95%, Wind Speed: 1.34
+429 - City: Rāmāpuram  ID: 1258726 Lat: 13.1167, Lng 79.2, Temp: 73.22, Humidity: 94, Cloud Cover: 95%, Wind Speed: 0.56
+430 - City: Laas  ID: 3175096 Lat: 46.6166, Lng 10.7002, Temp: 43.68, Humidity: 52, Cloud Cover: 0%, Wind Speed: 0.45
+431 - City: Olinda  ID: 3393536 Lat: -8.0089, Lng -34.8553, Temp: 82.13, Humidity: 74, Cloud Cover: 75%, Wind Speed: 8.05
+432 - City: Narasapuram  ID: 1261852 Lat: 16.45, Lng 81.6667, Temp: 76.19, Humidity: 92, Cloud Cover: 88%, Wind Speed: 4.88
+433 - City: Narsaq  ID: 3421719 Lat: 60.9167, Lng -46.05, Temp: 34.02, Humidity: 70, Cloud Cover: 69%, Wind Speed: 1.28
+434 - City: Gorontalo  ID: 1643837 Lat: 0.5412, Lng 123.0595, Temp: 73.78, Humidity: 92, Cloud Cover: 99%, Wind Speed: 2.24
+435 - City: Darnah  ID: 87205 Lat: 32.767, Lng 22.6367, Temp: 72.34, Humidity: 56, Cloud Cover: 0%, Wind Speed: 6.64
+436 - City: Korla  ID: 1529376 Lat: 41.7597, Lng 86.1469, Temp: 52.09, Humidity: 35, Cloud Cover: 100%, Wind Speed: 4.47
+437 - City: Larsnes  ID: 3148133 Lat: 62.2028, Lng 5.5773, Temp: 46.67, Humidity: 83, Cloud Cover: 100%, Wind Speed: 11.54
+438 - City: Mumford  ID: 2297810 Lat: 5.2618, Lng -0.759, Temp: 77.9, Humidity: 86, Cloud Cover: 100%, Wind Speed: 6.85
+439 - City: Ginda  ID: 1253628 Lat: 30.6945, Lng 78.4932, Temp: 48.36, Humidity: 69, Cloud Cover: 2%, Wind Speed: 6.78
+440 - City: Luanda  ID: 2240449 Lat: -8.8368, Lng 13.2343, Temp: 77, Humidity: 78, Cloud Cover: 40%, Wind Speed: 11.5
+441 - City: Nishihara  ID: 1855342 Lat: 26.1842, Lng 127.7558, Temp: 72.68, Humidity: 74, Cloud Cover: 40%, Wind Speed: 3.44
+*** City nizhneyansk not found! ***
+*** City karaul not found! ***
+442 - City: Arrondissement de Vierzon  ID: 6457360 Lat: 47.2101, Lng 2.0625, Temp: 43.39, Humidity: 74, Cloud Cover: 0%, Wind Speed: 6.82
+443 - City: Binabalian Ricor  ID: 1725210 Lat: 16.4202, Lng 119.9279, Temp: 80.83, Humidity: 80, Cloud Cover: 100%, Wind Speed: 11.18
+444 - City: Celestún  ID: 3531368 Lat: 20.8667, Lng -90.4, Temp: 82.2, Humidity: 72, Cloud Cover: 95%, Wind Speed: 10.54
+*** City artyk not found! ***
+445 - City: Saraland  ID: 4088628 Lat: 30.8207, Lng -88.0706, Temp: 84.56, Humidity: 52, Cloud Cover: 91%, Wind Speed: 2.71
+446 - City: Cheyenne  ID: 5821086 Lat: 41.14, Lng -104.8203, Temp: 63.07, Humidity: 25, Cloud Cover: 40%, Wind Speed: 6.91
+447 - City: Kitimat  ID: 5993072 Lat: 54.0524, Lng -128.6534, Temp: 46.78, Humidity: 30, Cloud Cover: 100%, Wind Speed: 2.48
+448 - City: Vianópolis  ID: 3445148 Lat: -16.7419, Lng -48.5164, Temp: 80.51, Humidity: 44, Cloud Cover: 74%, Wind Speed: 10
+449 - City: Okakarara  ID: 3354876 Lat: -20.5833, Lng 17.4333, Temp: 70.38, Humidity: 11, Cloud Cover: 0%, Wind Speed: 9.26
+450 - City: Ulsteinvik  ID: 3133349 Lat: 62.3432, Lng 5.8487, Temp: 46.98, Humidity: 80, Cloud Cover: 100%, Wind Speed: 14
+451 - City: Bilma  ID: 2446796 Lat: 18.6853, Lng 12.9164, Temp: 83.77, Humidity: 14, Cloud Cover: 2%, Wind Speed: 6.93
+452 - City: Mascote  ID: 3457566 Lat: -15.5631, Lng -39.3025, Temp: 76.51, Humidity: 99, Cloud Cover: 100%, Wind Speed: 1.66
+453 - City: Ambon City  ID: 1651531 Lat: -3.6954, Lng 128.1814, Temp: 79.61, Humidity: 82, Cloud Cover: 85%, Wind Speed: 4.07
+454 - City: Tenamaxtlán  ID: 3982065 Lat: 20.2167, Lng -104.1667, Temp: 80.71, Humidity: 41, Cloud Cover: 73%, Wind Speed: 6.87
+455 - City: Lagunas  ID: 3695844 Lat: -5.2269, Lng -75.6753, Temp: 89.17, Humidity: 55, Cloud Cover: 100%, Wind Speed: 3.42
+456 - City: Flin Flon  ID: 5954718 Lat: 54.7682, Lng -101.865, Temp: 39.04, Humidity: 81, Cloud Cover: 75%, Wind Speed: 13.8
+457 - City: Turki  ID: 480267 Lat: 51.987, Lng 43.2731, Temp: 43.14, Humidity: 83, Cloud Cover: 10%, Wind Speed: 7.81
+458 - City: Erzin  ID: 296852 Lat: 36.9559, Lng 36.2, Temp: 68.72, Humidity: 58, Cloud Cover: 0%, Wind Speed: 2.57
+459 - City: Rawson  ID: 3839307 Lat: -43.3002, Lng -65.1023, Temp: 60.91, Humidity: 27, Cloud Cover: 50%, Wind Speed: 3.6
+460 - City: Arrondissement de Soissons  ID: 2974388 Lat: 49.3333, Lng 3.3333, Temp: 48.4, Humidity: 73, Cloud Cover: 0%, Wind Speed: 4.79
+461 - City: Peniche  ID: 2264923 Lat: 39.3558, Lng -9.3811, Temp: 64.62, Humidity: 84, Cloud Cover: 26%, Wind Speed: 9.95
+462 - City: Ostrovnoy  ID: 556268 Lat: 68.0531, Lng 39.5131, Temp: 29.41, Humidity: 91, Cloud Cover: 100%, Wind Speed: 21.79
+463 - City: Dakar  ID: 2253354 Lat: 14.6937, Lng -17.4441, Temp: 83.28, Humidity: 78, Cloud Cover: 0%, Wind Speed: 4.61
+464 - City: Abu Samrah  ID: 172515 Lat: 35.3029, Lng 37.1841, Temp: 66.2, Humidity: 58, Cloud Cover: 0%, Wind Speed: 7.02
+465 - City: Rock Sound  ID: 3571592 Lat: 24.9, Lng -76.2, Temp: 80.47, Humidity: 75, Cloud Cover: 98%, Wind Speed: 10.11
+466 - City: Lisala  ID: 211734 Lat: 2.15, Lng 21.5167, Temp: 71.2, Humidity: 95, Cloud Cover: 92%, Wind Speed: 2.55
+467 - City: Cockburn Town  ID: 3576994 Lat: 21.4612, Lng -71.1419, Temp: 85.96, Humidity: 66, Cloud Cover: 75%, Wind Speed: 10.36
+*** City bolungarvik not found! ***
+468 - City: Lagos  ID: 2332453 Lat: 6.5833, Lng 3.75, Temp: 77.32, Humidity: 94, Cloud Cover: 100%, Wind Speed: 2.24
+469 - City: Balkanabat  ID: 161616 Lat: 39.5108, Lng 54.3671, Temp: 58.23, Humidity: 22, Cloud Cover: 1%, Wind Speed: 3.51
+470 - City: Buchanan  ID: 2278158 Lat: 5.8808, Lng -10.0467, Temp: 77.4, Humidity: 90, Cloud Cover: 100%, Wind Speed: 4.63
+471 - City: Ziarat  ID: 1162094 Lat: 30.3823, Lng 67.7282, Temp: 43.45, Humidity: 24, Cloud Cover: 0%, Wind Speed: 3.38
+472 - City: Bambanglipuro  ID: 1650434 Lat: -7.95, Lng 110.2833, Temp: 76.75, Humidity: 88, Cloud Cover: 99%, Wind Speed: 3.89
+473 - City: Aleksandrów Kujawski  ID: 3104133 Lat: 52.8766, Lng 18.6935, Temp: 40.48, Humidity: 84, Cloud Cover: 14%, Wind Speed: 6.35
+474 - City: Río Gallegos  ID: 3838859 Lat: -51.6226, Lng -69.2181, Temp: 46.45, Humidity: 39, Cloud Cover: 40%, Wind Speed: 44.87
+475 - City: Kholtoson  ID: 2022369 Lat: 50.2981, Lng 103.3097, Temp: 33.6, Humidity: 54, Cloud Cover: 100%, Wind Speed: 2.55
+476 - City: Kutum  ID: 371745 Lat: 14.2, Lng 24.6667, Temp: 77.5, Humidity: 20, Cloud Cover: 18%, Wind Speed: 14.2
+477 - City: Gaillac  ID: 3016824 Lat: 43.9016, Lng 1.8969, Temp: 51.91, Humidity: 55, Cloud Cover: 0%, Wind Speed: 4.03
+478 - City: Kallaste  ID: 591703 Lat: 58.655, Lng 27.1592, Temp: 35.83, Humidity: 81, Cloud Cover: 97%, Wind Speed: 16.55
+479 - City: Palmerston  ID: 6301965 Lat: -12.486, Lng 130.9833, Temp: 78.78, Humidity: 83, Cloud Cover: 0%, Wind Speed: 5.75
+480 - City: Viedma  ID: 3832899 Lat: -40.8135, Lng -62.9967, Temp: 58.75, Humidity: 21, Cloud Cover: 9%, Wind Speed: 7.7
+481 - City: Sunrise Manor  ID: 5513343 Lat: 36.2111, Lng -115.0731, Temp: 78.91, Humidity: 28, Cloud Cover: 20%, Wind Speed: 0
+482 - City: Yasnyy  ID: 468657 Lat: 51.0333, Lng 59.8742, Temp: 48.18, Humidity: 86, Cloud Cover: 100%, Wind Speed: 13.53
+483 - City: Troitskoye  ID: 1489209 Lat: 52.9821, Lng 84.6757, Temp: 43.65, Humidity: 60, Cloud Cover: 100%, Wind Speed: 21.63
+484 - City: Kudahuvadhoo  ID: 1337607 Lat: 2.6708, Lng 72.8944, Temp: 82.58, Humidity: 72, Cloud Cover: 84%, Wind Speed: 14.85
+485 - City: Conceição do Castelo  ID: 3465749 Lat: -20.3683, Lng -41.2439, Temp: 66.63, Humidity: 92, Cloud Cover: 1%, Wind Speed: 3.89
+486 - City: Moree  ID: 2156927 Lat: -29.4667, Lng 149.85, Temp: 59.02, Humidity: 72, Cloud Cover: 1%, Wind Speed: 5.75
+487 - City: Whitehorse  ID: 6180550 Lat: 60.7161, Lng -135.0538, Temp: 43.57, Humidity: 56, Cloud Cover: 75%, Wind Speed: 10
+488 - City: Jalu  ID: 86049 Lat: 29.0331, Lng 21.5482, Temp: 73.02, Humidity: 34, Cloud Cover: 4%, Wind Speed: 11.03
+489 - City: Laela  ID: 156098 Lat: -8.5667, Lng 32.05, Temp: 74.53, Humidity: 32, Cloud Cover: 78%, Wind Speed: 2.39
+490 - City: Kruisfontein  ID: 986717 Lat: -34.0033, Lng 24.7314, Temp: 57.88, Humidity: 62, Cloud Cover: 69%, Wind Speed: 14.41
+*** City formoso do araguaia not found! ***
+491 - City: Severoural'sk  ID: 496275 Lat: 60.1533, Lng 59.952, Temp: 38.28, Humidity: 76, Cloud Cover: 45%, Wind Speed: 12.26
+492 - City: Praia da Vitória  ID: 3372760 Lat: 38.7333, Lng -27.0667, Temp: 68.76, Humidity: 83, Cloud Cover: 75%, Wind Speed: 11.27
+493 - City: Abu Kamal  ID: 174448 Lat: 34.4506, Lng 40.9171, Temp: 72.86, Humidity: 29, Cloud Cover: 48%, Wind Speed: 4.21
+494 - City: Pochutla  ID: 3517970 Lat: 15.7432, Lng -96.4661, Temp: 83.82, Humidity: 70, Cloud Cover: 96%, Wind Speed: 6.6
+495 - City: Tiarei  ID: 4033356 Lat: -17.5333, Lng -149.3333, Temp: 82.42, Humidity: 87, Cloud Cover: 100%, Wind Speed: 13.42
+*** City hunza not found! ***
+496 - City: Pangnirtung  ID: 6096551 Lat: 66.1451, Lng -65.7125, Temp: 25.39, Humidity: 93, Cloud Cover: 98%, Wind Speed: 4.12
+497 - City: Martinsicuro  ID: 3173833 Lat: 42.8811, Lng 13.9145, Temp: 62.98, Humidity: 81, Cloud Cover: 100%, Wind Speed: 9.1
+498 - City: Kiruna  ID: 605155 Lat: 67.8557, Lng 20.2251, Temp: 9.52, Humidity: 85, Cloud Cover: 20%, Wind Speed: 11.5
+499 - City: Manaure  ID: 3675504 Lat: 11.7751, Lng -72.4445, Temp: 89.91, Humidity: 54, Cloud Cover: 16%, Wind Speed: 16.08
+500 - City: Egvekinot  ID: 4031742 Lat: 66.3167, Lng -179.1667, Temp: 10.24, Humidity: 79, Cloud Cover: 100%, Wind Speed: 6.82
+501 - City: ‘Ewa Beach  ID: 5855051 Lat: 21.3156, Lng -158.0072, Temp: 85.95, Humidity: 48, Cloud Cover: 1%, Wind Speed: 9.22
+502 - City: Sayula  ID: 3983216 Lat: 19.8667, Lng -103.6167, Temp: 76.46, Humidity: 61, Cloud Cover: 100%, Wind Speed: 2.44
+503 - City: Micheweni  ID: 153955 Lat: -4.9667, Lng 39.8333, Temp: 76.86, Humidity: 79, Cloud Cover: 7%, Wind Speed: 6.08
+504 - City: Polunochnoye  ID: 1494482 Lat: 60.8697, Lng 60.4153, Temp: 37.92, Humidity: 83, Cloud Cover: 95%, Wind Speed: 11.48
+505 - City: Tessalit  ID: 2449893 Lat: 20.1986, Lng 1.0114, Temp: 87.58, Humidity: 18, Cloud Cover: 34%, Wind Speed: 8.41
+506 - City: Nouakchott  ID: 2377450 Lat: 18.0858, Lng -15.9785, Temp: 79.88, Humidity: 57, Cloud Cover: 0%, Wind Speed: 18.03
+507 - City: Agara  ID: 615943 Lat: 42.0376, Lng 43.8238, Temp: 49.28, Humidity: 60, Cloud Cover: 0%, Wind Speed: 4.9
+508 - City: Homer  ID: 5864145 Lat: 59.6425, Lng -151.5483, Temp: 44.04, Humidity: 89, Cloud Cover: 90%, Wind Speed: 0
+509 - City: Tyachiv  ID: 690906 Lat: 48.0118, Lng 23.5706, Temp: 46.81, Humidity: 67, Cloud Cover: 83%, Wind Speed: 3.76
+510 - City: Port Blair  ID: 1259385 Lat: 11.6667, Lng 92.75, Temp: 78.67, Humidity: 83, Cloud Cover: 96%, Wind Speed: 3.65
+511 - City: Anori  ID: 3665315 Lat: -3.7728, Lng -61.6442, Temp: 87.44, Humidity: 55, Cloud Cover: 91%, Wind Speed: 2.37
+512 - City: Sai Buri  ID: 1606851 Lat: 6.7013, Lng 101.6168, Temp: 75.92, Humidity: 91, Cloud Cover: 51%, Wind Speed: 3.71
+513 - City: Kalmunai  ID: 1242110 Lat: 7.4167, Lng 81.8167, Temp: 78.42, Humidity: 83, Cloud Cover: 30%, Wind Speed: 4.74
+514 - City: Găeşti  ID: 677742 Lat: 44.7167, Lng 25.3167, Temp: 57.81, Humidity: 65, Cloud Cover: 100%, Wind Speed: 6.35
+515 - City: Key West  ID: 4160812 Lat: 24.5557, Lng -81.7826, Temp: 84.2, Humidity: 74, Cloud Cover: 40%, Wind Speed: 4.61
+516 - City: Rossland  ID: 6127950 Lat: 49.0831, Lng -117.8022, Temp: 47.62, Humidity: 77, Cloud Cover: 98%, Wind Speed: 3
+517 - City: Yatou  ID: 1786855 Lat: 37.15, Lng 122.3833, Temp: 48.45, Humidity: 71, Cloud Cover: 16%, Wind Speed: 2.3
+*** City barawe not found! ***
+*** City grand river south east not found! ***
+518 - City: Neyshabur  ID: 122285 Lat: 36.2133, Lng 58.7958, Temp: 52.57, Humidity: 20, Cloud Cover: 0%, Wind Speed: 0.58
+519 - City: Saint-Pierre  ID: 935214 Lat: -21.3393, Lng 55.4781, Temp: 73.56, Humidity: 84, Cloud Cover: 0%, Wind Speed: 4.61
+520 - City: Vozrozhdeniye  ID: 866301 Lat: 44.5503, Lng 38.2136, Temp: 49.24, Humidity: 90, Cloud Cover: 100%, Wind Speed: 4.32
+521 - City: Vostok  ID: 2013279 Lat: 46.4856, Lng 135.8833, Temp: 28.13, Humidity: 89, Cloud Cover: 7%, Wind Speed: 5.68
+522 - City: Chekhov  ID: 569591 Lat: 55.1431, Lng 37.4711, Temp: 40.08, Humidity: 89, Cloud Cover: 42%, Wind Speed: 11.03
+523 - City: Washington  ID: 5815135 Lat: 47.5001, Lng -120.5015, Temp: 53.94, Humidity: 60, Cloud Cover: 96%, Wind Speed: 4.97
+524 - City: Biak  ID: 1637001 Lat: -0.9131, Lng 122.8766, Temp: 75.6, Humidity: 79, Cloud Cover: 99%, Wind Speed: 2.82
+525 - City: Biharamulo  ID: 161154 Lat: -2.6319, Lng 31.3089, Temp: 65.98, Humidity: 70, Cloud Cover: 97%, Wind Speed: 3.24
+*** City gangotri not found! ***
+526 - City: Kabelvåg  ID: 3150639 Lat: 68.2114, Lng 14.4817, Temp: 36.54, Humidity: 61, Cloud Cover: 100%, Wind Speed: 1.57
+527 - City: Sabaudia  ID: 3168764 Lat: 41.3003, Lng 13.0282, Temp: 65.89, Humidity: 97, Cloud Cover: 100%, Wind Speed: 6.11
+528 - City: San Jose  ID: 5392171 Lat: 37.3394, Lng -121.895, Temp: 70.79, Humidity: 55, Cloud Cover: 40%, Wind Speed: 3.44
+*** City maghama not found! ***
+529 - City: Svetlaya  ID: 2015852 Lat: 46.5389, Lng 138.3297, Temp: 41.31, Humidity: 71, Cloud Cover: 1%, Wind Speed: 6.98
+530 - City: Darhan  ID: 2031964 Lat: 49.4867, Lng 105.9228, Temp: 35.6, Humidity: 52, Cloud Cover: 100%, Wind Speed: 4.23
+531 - City: San Juan  ID: 3837213 Lat: -31.5375, Lng -68.5364, Temp: 76.35, Humidity: 15, Cloud Cover: 0%, Wind Speed: 6.44
+*** City kosya not found! ***
+532 - City: Marsh Harbour  ID: 3571913 Lat: 26.5412, Lng -77.0636, Temp: 80.67, Humidity: 73, Cloud Cover: 100%, Wind Speed: 9.42
+533 - City: Äänekoski  ID: 662096 Lat: 62.6946, Lng 25.818, Temp: 26.67, Humidity: 97, Cloud Cover: 36%, Wind Speed: 3.58
+534 - City: Richards Bay  ID: 962367 Lat: -28.783, Lng 32.0377, Temp: 70.59, Humidity: 64, Cloud Cover: 83%, Wind Speed: 20.87
+535 - City: Buala  ID: 2109528 Lat: -8.145, Lng 159.5921, Temp: 82.33, Humidity: 69, Cloud Cover: 33%, Wind Speed: 4.79
+536 - City: Severodvinsk  ID: 496285 Lat: 64.5635, Lng 39.8302, Temp: 30.31, Humidity: 83, Cloud Cover: 100%, Wind Speed: 5.91
+537 - City: Champerico  ID: 3598787 Lat: 14.3, Lng -91.9167, Temp: 91.94, Humidity: 76, Cloud Cover: 71%, Wind Speed: 7.74
+538 - City: Nabire  ID: 1634614 Lat: -3.3667, Lng 135.4833, Temp: 74.95, Humidity: 92, Cloud Cover: 82%, Wind Speed: 3.06
+539 - City: Kulhudhuffushi  ID: 1337613 Lat: 6.6221, Lng 73.07, Temp: 81.39, Humidity: 78, Cloud Cover: 98%, Wind Speed: 15.88
+540 - City: Zhangye  ID: 1785036 Lat: 38.9342, Lng 100.4517, Temp: 44.02, Humidity: 50, Cloud Cover: 86%, Wind Speed: 2.57
+541 - City: Khingansk  ID: 2022454 Lat: 49.1167, Lng 131.1833, Temp: 27.54, Humidity: 93, Cloud Cover: 0%, Wind Speed: 1.86
+542 - City: Hjelset  ID: 3152548 Lat: 62.7833, Lng 7.4833, Temp: 43.12, Humidity: 81, Cloud Cover: 75%, Wind Speed: 9.22
+543 - City: Gubskaya  ID: 558135 Lat: 44.3164, Lng 40.6358, Temp: 48.96, Humidity: 61, Cloud Cover: 72%, Wind Speed: 4.54
+544 - City: Puerto del Rosario  ID: 2512186 Lat: 28.5004, Lng -13.8627, Temp: 71.35, Humidity: 56, Cloud Cover: 75%, Wind Speed: 17.27
+545 - City: Kathmandu  ID: 1283240 Lat: 27.7167, Lng 85.3167, Temp: 64.62, Humidity: 94, Cloud Cover: 75%, Wind Speed: 2.3
+546 - City: Grajaú  ID: 3398856 Lat: -5.8194, Lng -46.1386, Temp: 77.81, Humidity: 85, Cloud Cover: 99%, Wind Speed: 2.57
+547 - City: China  ID: 3530839 Lat: 25.7, Lng -99.2333, Temp: 89.24, Humidity: 44, Cloud Cover: 0%, Wind Speed: 9.08
+548 - City: Saint-Leu  ID: 6690297 Lat: -21.15, Lng 55.2833, Temp: 72.95, Humidity: 95, Cloud Cover: 17%, Wind Speed: 4.03
+549 - City: Ossora  ID: 2122389 Lat: 59.2353, Lng 163.0719, Temp: 24.4, Humidity: 91, Cloud Cover: 100%, Wind Speed: 6.02
+550 - City: Vila Velha  ID: 3445026 Lat: -20.3297, Lng -40.2925, Temp: 76.95, Humidity: 73, Cloud Cover: 40%, Wind Speed: 13.8
+551 - City: Ol'ga  ID: 2018553 Lat: 43.7444, Lng 135.2892, Temp: 37.67, Humidity: 70, Cloud Cover: 0%, Wind Speed: 6.26
+552 - City: Koumac  ID: 2140558 Lat: -20.5667, Lng 164.2833, Temp: 74.98, Humidity: 74, Cloud Cover: 2%, Wind Speed: 7.72
+553 - City: Oistins  ID: 3373652 Lat: 13.0667, Lng -59.5333, Temp: 86.09, Humidity: 62, Cloud Cover: 40%, Wind Speed: 20.71
+554 - City: Korhogo  ID: 2286304 Lat: 9.45, Lng -5.6333, Temp: 77.09, Humidity: 79, Cloud Cover: 91%, Wind Speed: 4.12
+555 - City: Say  ID: 2439812 Lat: 13.1007, Lng 2.3689, Temp: 91.96, Humidity: 53, Cloud Cover: 88%, Wind Speed: 11.03
+*** City dzhusaly not found! ***
+556 - City: Carberry  ID: 5916706 Lat: 49.8689, Lng -99.3602, Temp: 41.23, Humidity: 50, Cloud Cover: 60%, Wind Speed: 10.67
+557 - City: Letpadan  ID: 1292313 Lat: 17.7833, Lng 95.75, Temp: 74.57, Humidity: 95, Cloud Cover: 93%, Wind Speed: 3.31
+558 - City: Arlit  ID: 2447513 Lat: 18.7369, Lng 7.3853, Temp: 87.94, Humidity: 12, Cloud Cover: 6%, Wind Speed: 9.06
+559 - City: Itupiranga  ID: 3397851 Lat: -5.1347, Lng -49.3267, Temp: 80.92, Humidity: 86, Cloud Cover: 100%, Wind Speed: 2.33
+560 - City: Makakilo City  ID: 5850554 Lat: 21.3469, Lng -158.0858, Temp: 84.52, Humidity: 49, Cloud Cover: 1%, Wind Speed: 9.22
+561 - City: Wewak  ID: 2083537 Lat: -3.5534, Lng 143.6268, Temp: 79.52, Humidity: 84, Cloud Cover: 100%, Wind Speed: 8.79
+562 - City: Cabedelo  ID: 3404558 Lat: -6.9811, Lng -34.8339, Temp: 83.07, Humidity: 76, Cloud Cover: 43%, Wind Speed: 11.88
+563 - City: Ust-Nera  ID: 2120048 Lat: 64.5667, Lng 143.2, Temp: -1.37, Humidity: 99, Cloud Cover: 73%, Wind Speed: 4.74
+564 - City: Whitefish  ID: 5686121 Lat: 48.4111, Lng -114.3376, Temp: 52.05, Humidity: 52, Cloud Cover: 75%, Wind Speed: 13.8
